@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/[0]LogoChaosIndustries.unity
+    guid: e44db051340496a41a8d45c623974d77
+  - enabled: 1
+    path: Assets/Scenes/[1]LogoChundos.unity
+    guid: 68a910e4633cea345991cb80e8b2b317
+  - enabled: 1
+    path: Assets/Scenes/[5]LevelSelect.unity
+    guid: 55e8917945d4fb444a605cc9d13718cb
+  - enabled: 1
+    path: Assets/Scenes/[4]Campaign.unity
+    guid: 972054a0ba082824cb5d264b102c56f6
+  - enabled: 1
+    path: Assets/Scenes/[9]Store.unity
+    guid: 867e6212ff6f4ca438aeec892a3191e2
+  - enabled: 1
+    path: Assets/Scenes/[13]Encyclopedia.unity
+    guid: f8a9ab46c23bfc84b8694caf815e5ac9
+  - enabled: 1
+    path: Assets/Scenes/[14]Achievements.unity
+    guid: c1b1a4662099b7f4cbe219aaeac1e23d
+  - enabled: 1
+    path: Assets/Scenes/[15]CinematicsStart.unity
+    guid: 3bee3b5af272d9543903e769786f6f10
+  - enabled: 1
+    path: Assets/Scenes/[16]Credits.unity
+    guid: c309882a845372745acc71e8fea76825
+  - enabled: 1
+    path: Assets/Scenes/[17]CinematicsEnding.unity
+    guid: c313896274c789d4384c136644c1b5a7
+  - enabled: 1
+    path: Assets/Scenes/Level_DM_0.unity
+    guid: b2a64dbd33c916e4495cd29facfd26d3
+  - enabled: 1
+    path: Assets/Scenes/Level_DM_1.unity
+    guid: c0367a1c074228645bed34c3b2561893
+  - enabled: 1
+    path: Assets/Scenes/Level_DM_10.unity
+    guid: 07bde4d99a618f246bcd8a3183f4c78d
+  - enabled: 1
+    path: Assets/Scenes/Level_DM_11.unity
+    guid: 47d06e79504c057498d60d66bc7ac43b
+  - enabled: 1
+    path: Assets/Scenes/Level_DM_12.unity
+    guid: e9041feebf10be84b82cc6d75b3eaa40
+  - enabled: 1
+    path: Assets/Scenes/Level_DM_2.unity
+    guid: 4ed87bc990366ae49a1d876f7113d895
+  - enabled: 1
+    path: Assets/Scenes/Level_DM_3.unity
+    guid: bcdf04626d31a624ba4b552039bdaf93
+  - enabled: 1
+    path: Assets/Scenes/Level_DM_4.unity
+    guid: d462ed9e3a4beda41a05780d713c7d1a
+  - enabled: 1
+    path: Assets/Scenes/Level_DM_5.unity
+    guid: be2d4eb7f8ed0194cbc1364f48bfa961
+  - enabled: 1
+    path: Assets/Scenes/Level_DM_6.unity
+    guid: e4b4783fc7e2e6e48a77a87dbee4ee49
+  - enabled: 1
+    path: Assets/Scenes/Level_DM_7.unity
+    guid: 315efa09fe4f0d14e813ec52883a9861
+  - enabled: 1
+    path: Assets/Scenes/Level_DM_8.unity
+    guid: b9f73c08708bb464981416df971b94aa
+  - enabled: 1
+    path: Assets/Scenes/Level_DM_9.unity
+    guid: 2ef1af43d13e8864fa4f6075dbb4aa01

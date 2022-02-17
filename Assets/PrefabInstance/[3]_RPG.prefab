@@ -1,0 +1,206 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1044446572982056}
+  m_IsPrefabParent: 1
+--- !u!1 &1044446572982056
+GameObject:
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4460721675897894}
+  - component: {fileID: 114354755832077991}
+  m_Layer: 15
+  m_Name: '[3]_RPG'
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4460721675897894
+Transform:
+  m_GameObject: {fileID: 1044446572982056}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 7.689557, z: 0}
+  m_LocalScale: {x: 0.4, y: 0.4, z: 0.4}
+  m_Children:
+  - {fileID: 4924689748450322}
+  - {fileID: 4284924574815935}
+  - {fileID: 4562040846364310}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114354755832077991
+MonoBehaviour:
+  m_GameObject: {fileID: 1044446572982056}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3cf55a892ff59bc4e9863a669b0dab18, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  base_weapon:
+    bulletName: {fileID: 0}
+    effectName: {fileID: 1948860684916279, guid: d97eb56ee8f057148987c4ed581e0190, type: 2}
+    hitEffect: {fileID: 0}
+    shootPoint: {fileID: 4924689748450322}
+    weaponType: 0
+    owner: 0
+    minShootRange: 0
+    shootRatio: 0
+    basicBulletDamage: 0
+    minBulletCapacity: 0
+    shootRange: 0
+    bulletDamage: 10
+    bulletCapacity: 0
+    weaponName: 3
+    unlocked: 0
+    price: 0
+    purchased: 0
+    shootClip: {fileID: 8300000, guid: 4fd7adcddd16e7b48b544766b4e79632, type: 3}
+    emptyMag: {fileID: 8300000, guid: 60cd157cd7840b94ea3493ab78b3ba5e, type: 3}
+--- !u!1 &1755559374605100
+GameObject:
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4924689748450322}
+  m_Layer: 15
+  m_Name: ShootPoint
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4924689748450322
+Transform:
+  m_GameObject: {fileID: 1755559374605100}
+  m_LocalRotation: {x: 5.034885E-07, y: -0.7071066, z: 1.508138E-07, w: 0.7071069}
+  m_LocalPosition: {x: -0.9697416, y: -0.0589025, z: -0.1972089}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4460721675897894}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 5.301712E-05, y: 89.99996, z: 0}
+--- !u!1 &1253507710703892
+GameObject:
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4284924574815935}
+  - component: {fileID: 33160186316339597}
+  - component: {fileID: 23805232816960983}
+  m_Layer: 15
+  m_Name: polySurface14
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4284924574815935
+Transform:
+  m_GameObject: {fileID: 1253507710703892}
+  m_LocalRotation: {x: -0.04513207, y: -0.7511262, z: 0.09145784, w: 0.6522331}
+  m_LocalPosition: {x: -1.056001, y: -0.084939, z: -0.2225987}
+  m_LocalScale: {x: 2.210733, y: 2.210732, z: 2.210731}
+  m_Children: []
+  m_Father: {fileID: 4460721675897894}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: -124.0144, y: 76.30344, z: -127.7958}
+--- !u!33 &33160186316339597
+MeshFilter:
+  m_GameObject: {fileID: 1253507710703892}
+  m_Mesh: {fileID: 4300000, guid: b2754650d3c9fbf4eb3303094b9898c5, type: 2}
+--- !u!23 &23805232816960983
+MeshRenderer:
+  m_GameObject: {fileID: 1253507710703892}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 0
+  m_ReflectionProbeUsage: 1
+  m_Materials:
+  - {fileID: 2100000, guid: fdbde5a327dacf64eb94770bd6b2d866, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+--- !u!1 &1419749613746678
+GameObject:
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4562040846364310}
+  - component: {fileID: 33388453379316306}
+  - component: {fileID: 23751009668692297}
+  m_Layer: 15
+  m_Name: polySurface15
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4562040846364310
+Transform:
+  m_GameObject: {fileID: 1419749613746678}
+  m_LocalRotation: {x: -0.04513207, y: -0.7511262, z: 0.09145784, w: 0.6522331}
+  m_LocalPosition: {x: -0.003823174, y: -0.4466164, z: 0.004203483}
+  m_LocalScale: {x: 2.210733, y: 2.210732, z: 2.210731}
+  m_Children: []
+  m_Father: {fileID: 4460721675897894}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: -124.0144, y: 76.30344, z: -127.7958}
+--- !u!33 &33388453379316306
+MeshFilter:
+  m_GameObject: {fileID: 1419749613746678}
+  m_Mesh: {fileID: 4300000, guid: 9d52e262d5011d4459c3b3ec8948026a, type: 2}
+--- !u!23 &23751009668692297
+MeshRenderer:
+  m_GameObject: {fileID: 1419749613746678}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 0
+  m_ReflectionProbeUsage: 1
+  m_Materials:
+  - {fileID: 2100000, guid: fdbde5a327dacf64eb94770bd6b2d866, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0

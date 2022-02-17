@@ -1,0 +1,756 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!90 &9000000
+Avatar:
+  m_Name: objetivo_2_character_animation_rigAvatar
+  m_AvatarSize: 8404
+  m_Avatar:
+    serializedVersion: 3
+    m_AvatarSkeleton:
+      data:
+        m_Node:
+        - m_ParentId: -1
+          m_AxesId: -1
+        - m_ParentId: 0
+          m_AxesId: -1
+        - m_ParentId: 0
+          m_AxesId: -1
+        - m_ParentId: 2
+          m_AxesId: -1
+        - m_ParentId: 3
+          m_AxesId: -1
+        - m_ParentId: 4
+          m_AxesId: -1
+        - m_ParentId: 5
+          m_AxesId: -1
+        - m_ParentId: 6
+          m_AxesId: -1
+        - m_ParentId: 7
+          m_AxesId: -1
+        - m_ParentId: 3
+          m_AxesId: -1
+        - m_ParentId: 9
+          m_AxesId: -1
+        - m_ParentId: 10
+          m_AxesId: -1
+        - m_ParentId: 11
+          m_AxesId: -1
+        - m_ParentId: 12
+          m_AxesId: -1
+        - m_ParentId: 13
+          m_AxesId: -1
+        - m_ParentId: 12
+          m_AxesId: -1
+        - m_ParentId: 15
+          m_AxesId: -1
+        - m_ParentId: 12
+          m_AxesId: -1
+        - m_ParentId: 17
+          m_AxesId: -1
+        - m_ParentId: 11
+          m_AxesId: -1
+        - m_ParentId: 19
+          m_AxesId: -1
+        - m_ParentId: 20
+          m_AxesId: -1
+        - m_ParentId: 21
+          m_AxesId: -1
+        - m_ParentId: 22
+          m_AxesId: -1
+        - m_ParentId: 23
+          m_AxesId: -1
+        - m_ParentId: 24
+          m_AxesId: -1
+        - m_ParentId: 25
+          m_AxesId: -1
+        - m_ParentId: 23
+          m_AxesId: -1
+        - m_ParentId: 27
+          m_AxesId: -1
+        - m_ParentId: 28
+          m_AxesId: -1
+        - m_ParentId: 29
+          m_AxesId: -1
+        - m_ParentId: 23
+          m_AxesId: -1
+        - m_ParentId: 31
+          m_AxesId: -1
+        - m_ParentId: 32
+          m_AxesId: -1
+        - m_ParentId: 33
+          m_AxesId: -1
+        - m_ParentId: 23
+          m_AxesId: -1
+        - m_ParentId: 35
+          m_AxesId: -1
+        - m_ParentId: 36
+          m_AxesId: -1
+        - m_ParentId: 37
+          m_AxesId: -1
+        - m_ParentId: 23
+          m_AxesId: -1
+        - m_ParentId: 39
+          m_AxesId: -1
+        - m_ParentId: 40
+          m_AxesId: -1
+        - m_ParentId: 11
+          m_AxesId: -1
+        - m_ParentId: 42
+          m_AxesId: -1
+        - m_ParentId: 43
+          m_AxesId: -1
+        - m_ParentId: 44
+          m_AxesId: -1
+        - m_ParentId: 45
+          m_AxesId: -1
+        - m_ParentId: 46
+          m_AxesId: -1
+        - m_ParentId: 47
+          m_AxesId: -1
+        - m_ParentId: 48
+          m_AxesId: -1
+        - m_ParentId: 46
+          m_AxesId: -1
+        - m_ParentId: 50
+          m_AxesId: -1
+        - m_ParentId: 51
+          m_AxesId: -1
+        - m_ParentId: 52
+          m_AxesId: -1
+        - m_ParentId: 46
+          m_AxesId: -1
+        - m_ParentId: 54
+          m_AxesId: -1
+        - m_ParentId: 55
+          m_AxesId: -1
+        - m_ParentId: 56
+          m_AxesId: -1
+        - m_ParentId: 46
+          m_AxesId: -1
+        - m_ParentId: 58
+          m_AxesId: -1
+        - m_ParentId: 59
+          m_AxesId: -1
+        - m_ParentId: 60
+          m_AxesId: -1
+        - m_ParentId: 46
+          m_AxesId: -1
+        - m_ParentId: 62
+          m_AxesId: -1
+        - m_ParentId: 63
+          m_AxesId: -1
+        - m_ParentId: 3
+          m_AxesId: -1
+        - m_ParentId: 65
+          m_AxesId: -1
+        - m_ParentId: 66
+          m_AxesId: -1
+        - m_ParentId: 67
+          m_AxesId: -1
+        - m_ParentId: 68
+          m_AxesId: -1
+        - m_ParentId: 0
+          m_AxesId: -1
+        - m_ParentId: 70
+          m_AxesId: -1
+        - m_ParentId: 70
+          m_AxesId: -1
+        m_ID: 0000000000edf69b6382cc2b5726927bd144f329e5375d31bcf8da5013114dafde4b3f9d74850b7bb9e5b2d30fa56ac3179c2dbb2dc8aa071a63cac4387ec4b13606eef057936fabd2f3e03a2f77b7ced1935c2554ad2d612ddfb81f23b079e9b193a00dba8aa04087a28f18676b3d8e422c0a17ce4e695a7783ff1bcb13bfe9af8e1240a26194909fd751419060c29ff77c3154d77439d128e6ad41f7e57ccc273434867657982b9232a755f33d121cf9c869875c7a9832f4631064215baf592d468d8f2d029af0a68e715ad415e1c0caf9fc8d6f5b372908ad0805186e2572ca3f3b227a648a05f3431768a5935a33b85f04d5bbea64af36003018a9b20a991a35f6d62c79691726403197394e70454d27a5bb7a707c3b9cf6f3a7a58c6551c6b16aab
+        m_AxesArray: []
+    m_AvatarSkeletonPose:
+      data:
+        m_X:
+        - t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1.245373, y: 1.245373, z: 1.245373}
+        - t: {x: -0.0004879225, y: 0.4810666, z: 7.119305E-17}
+          q: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.01209958, y: -0.1167232, z: -0.06874848}
+          q: {x: -0.04223185, y: 0.7416895, z: 0.1164396, w: 0.6592078}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.01901394, y: -0.1555379, z: -0.0183795}
+          q: {x: 0.05134667, y: 0.005404706, z: 0.01271416, w: 0.9985853}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.01502593, y: -0.1558899, z: -0.002113499}
+          q: {x: -0.0004766624, y: -0.7507188, z: -0.08634466, w: 0.6549547}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.1001896, y: -0.03634243, z: -4.033004E-05}
+          q: {x: 1.769029E-16, y: 3.330669E-16, z: 5.892049E-32, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.04752023, y: -0.003041767, z: -2.058981E-05}
+          q: {x: 1.769029E-16, y: 3.330669E-16, z: 5.892049E-32, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -4.733165E-32, y: 0.02908944, z: 0.0004879225}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 6.669882E-18, y: 0.1053243, z: 2.081668E-19}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 6.393887E-18, y: 0.1024618, z: 2.208811E-31}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -1.558093E-17, y: 0.2032737, z: 0}
+          q: {x: 0, y: 1.110223E-16, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -1.083389E-18, y: 0.04874294, z: 0}
+          q: {x: 0, y: 1.110223E-16, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.07141704, y: 0.413969, z: 1.232396E-32}
+          q: {x: 0, y: 1.110223E-16, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -4.673393E-18, y: 0.04874294, z: -0.01}
+          q: {x: -0.5, y: 0, z: 0, w: 0.8660254}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.07141704, y: 0.413969, z: 1.232396E-32}
+          q: {x: 0, y: 1.110223E-16, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 1.745099E-18, y: 0.04874294, z: 0.01}
+          q: {x: 0.5, y: 0, z: 0, w: 0.8660254}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.07141704, y: 0.413969, z: 1.232396E-32}
+          q: {x: 0, y: 1.110223E-16, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -1.458814E-17, y: 0.1571384, z: -0.07277387}
+          q: {x: 0, y: 1.110223E-16, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.03628689, y: -0.08131187, z: -0.1207227}
+          q: {x: 0.118015, y: 0.4279905, z: 0.5742689, w: 0.6878313}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.010063, y: -0.1441575, z: -0.1529979}
+          q: {x: 0.04994597, y: 0.01371889, z: -0.01083809, w: 0.9985989}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.0004558436, y: -0.09693387, z: -0.1338826}
+          q: {x: -0.1396871, y: -0.4667886, z: -0.5462521, w: 0.6813257}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 1.746304E-09, y: -0.04648127, z: -0.01996998}
+          q: {x: -3.565916E-16, y: 2.220446E-16, z: -7.917924E-32, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.05992571, y: 0.01518759, z: 0.02195785}
+          q: {x: -3.565916E-16, y: 2.220446E-16, z: -7.917924E-32, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.01531277, y: -0.01934735, z: -0.004217647}
+          q: {x: -3.565916E-16, y: 2.220446E-16, z: -7.917924E-32, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.00838975, y: -0.02176074, z: -0.005333376}
+          q: {x: -3.565916E-16, y: 2.220446E-16, z: -7.917924E-32, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.04636259, y: -0.009074887, z: -0.03392367}
+          q: {x: -3.565916E-16, y: 2.220446E-16, z: -7.917924E-32, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.009945018, y: -0.02864498, z: -0.01038141}
+          q: {x: -3.565916E-16, y: 2.220446E-16, z: -7.917924E-32, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.009436846, y: -0.0157091, z: 0.003423207}
+          q: {x: -3.565916E-16, y: 2.220446E-16, z: -7.917924E-32, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.005558606, y: -0.0171343, z: 0.010489}
+          q: {x: -3.565916E-16, y: 2.220446E-16, z: -7.917924E-32, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.01886089, y: -0.01507875, z: -0.03944992}
+          q: {x: -3.565916E-16, y: 2.220446E-16, z: -7.917924E-32, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.008253303, y: -0.02798972, z: -0.0145969}
+          q: {x: -3.565916E-16, y: 2.220446E-16, z: -7.917924E-32, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.007392546, y: -0.02451945, z: 0.005551482}
+          q: {x: -3.565916E-16, y: 2.220446E-16, z: -7.917924E-32, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.00536622, y: -0.01655568, z: 0.009813488}
+          q: {x: -3.565916E-16, y: 2.220446E-16, z: -7.917924E-32, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.001794682, y: -0.02375658, z: -0.03381891}
+          q: {x: -3.565916E-16, y: 2.220446E-16, z: -7.917924E-32, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.0008220111, y: -0.02603906, z: -0.009466474}
+          q: {x: -3.565916E-16, y: 2.220446E-16, z: -7.917924E-32, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.003128908, y: -0.02323647, z: 0.002306725}
+          q: {x: -3.565916E-16, y: 2.220446E-16, z: -7.917924E-32, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.007259372, y: -0.01967726, z: 0.007582546}
+          q: {x: -3.565916E-16, y: 2.220446E-16, z: -7.917924E-32, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.02226895, y: -0.0263699, z: -0.01465673}
+          q: {x: -3.565916E-16, y: 2.220446E-16, z: -7.917924E-32, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.0006692138, y: -0.02535251, z: -0.0006330841}
+          q: {x: -3.565916E-16, y: 2.220446E-16, z: -7.917924E-32, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.001956331, y: -0.02605372, z: -0.001574179}
+          q: {x: -3.565916E-16, y: 2.220446E-16, z: -7.917924E-32, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 1.598827E-32, y: 0.157138, z: 0.0697945}
+          q: {x: 0, y: 1.110223E-16, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.04333369, y: -0.08053915, z: 0.1249036}
+          q: {x: -0.1335781, y: -0.1403605, z: 0.2096419, w: 0.9583873}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.02069776, y: -0.1246292, z: 0.161707}
+          q: {x: -0.009047179, y: -0.04099672, z: -0.03308738, w: 0.9985703}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.03085773, y: -0.09945197, z: 0.1324075}
+          q: {x: 0.128819, y: 0.185767, z: -0.1818381, w: 0.9569907}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 3.552714E-17, y: -0.04648167, z: 0.01997}
+          q: {x: -5.571744E-17, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.0500179, y: 0.00139644, z: -0.01914351}
+          q: {x: -5.571744E-17, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.02102907, y: -0.01778463, z: 0.006448212}
+          q: {x: -5.571744E-17, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.006532886, y: -0.01528241, z: 0.003887502}
+          q: {x: -5.571744E-17, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.03391583, y: -0.01112544, z: 0.03575157}
+          q: {x: -5.571744E-17, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.01620508, y: -0.02755979, z: 0.008051338}
+          q: {x: -5.571744E-17, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.006852187, y: -0.01824269, z: -0.00430627}
+          q: {x: -5.571744E-17, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.005389811, y: -0.0161685, z: -0.006243952}
+          q: {x: -5.571744E-17, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.01229198, y: -0.02046978, z: 0.05094092}
+          q: {x: -5.571744E-17, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.005309922, y: -0.02495871, z: 0.004539757}
+          q: {x: -5.571744E-17, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.008334109, y: -0.02602512, z: -0.00412894}
+          q: {x: -5.571744E-17, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.005825411, y: -0.01913088, z: -0.01279677}
+          q: {x: -5.571744E-17, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.01391496, y: -0.02682975, z: 0.04182567}
+          q: {x: -5.571744E-17, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.006174767, y: -0.02839821, z: 0.002270627}
+          q: {x: -5.571744E-17, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.002438866, y: -0.01839511, z: -0.0007457269}
+          q: {x: -5.571744E-17, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.003840554, y: -0.01715166, z: -0.006318984}
+          q: {x: -5.571744E-17, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.03230341, y: -0.02585141, z: 0.02060763}
+          q: {x: -5.571744E-17, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.0006692138, y: -0.02535251, z: -0.0006330841}
+          q: {x: -5.571744E-17, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.006101236, y: -0.02780684, z: -0.007740879}
+          q: {x: -5.571744E-17, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.01209959, y: -0.1167234, z: 0.06874846}
+          q: {x: 0.7416895, y: 0.04223184, z: -0.6592078, w: 0.1164396}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.01901368, y: 0.1555375, z: 0.01837944}
+          q: {x: 0.05134667, y: 0.005404706, z: 0.01271416, w: 0.9985853}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.01502641, y: 0.15589, z: 0.002113435}
+          q: {x: -0.0004766819, y: -0.7507188, z: -0.08634464, w: 0.6549547}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.1001896, y: 0.03634246, z: 4.014959E-05}
+          q: {x: 0.0001046757, y: 0.0002249622, z: -0.03195572, w: 0.9994893}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.04726148, y: 0.005969791, z: 0.0005028788}
+          q: {x: 1.552579E-15, y: 5.673088E-17, z: 1.387779E-17, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+    m_DefaultPose:
+      data:
+        m_X:
+        - t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1.245373, y: 1.245373, z: 1.245373}
+        - t: {x: -0.0004879225, y: 0.4810666, z: 7.119305E-17}
+          q: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.01209958, y: -0.1167232, z: -0.06874848}
+          q: {x: -0.04223185, y: 0.7416895, z: 0.1164396, w: 0.6592078}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.01901394, y: -0.1555379, z: -0.0183795}
+          q: {x: 0.05134667, y: 0.005404706, z: 0.01271416, w: 0.9985853}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.01502593, y: -0.1558899, z: -0.002113499}
+          q: {x: -0.0004766624, y: -0.7507188, z: -0.08634466, w: 0.6549547}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.1001896, y: -0.03634243, z: -4.033004E-05}
+          q: {x: 1.769029E-16, y: 3.330669E-16, z: 5.892049E-32, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.04752023, y: -0.003041767, z: -2.058981E-05}
+          q: {x: 1.769029E-16, y: 3.330669E-16, z: 5.892049E-32, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -4.733165E-32, y: 0.02908944, z: 0.0004879225}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 6.669882E-18, y: 0.1053243, z: 2.081668E-19}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 6.393887E-18, y: 0.1024618, z: 2.208811E-31}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -1.558093E-17, y: 0.2032737, z: 0}
+          q: {x: 0, y: 1.110223E-16, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -1.083389E-18, y: 0.04874294, z: 0}
+          q: {x: 0, y: 1.110223E-16, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.07141704, y: 0.413969, z: 1.232396E-32}
+          q: {x: 0, y: 1.110223E-16, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -4.673393E-18, y: 0.04874294, z: -0.01}
+          q: {x: -0.5, y: 0, z: 0, w: 0.8660254}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.07141704, y: 0.413969, z: 1.232396E-32}
+          q: {x: 0, y: 1.110223E-16, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 1.745099E-18, y: 0.04874294, z: 0.01}
+          q: {x: 0.5, y: 0, z: 0, w: 0.8660254}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.07141704, y: 0.413969, z: 1.232396E-32}
+          q: {x: 0, y: 1.110223E-16, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -1.458814E-17, y: 0.1571384, z: -0.07277387}
+          q: {x: 0, y: 1.110223E-16, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.03628689, y: -0.08131187, z: -0.1207227}
+          q: {x: 0.118015, y: 0.4279905, z: 0.5742689, w: 0.6878313}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.010063, y: -0.1441575, z: -0.1529979}
+          q: {x: 0.04994597, y: 0.01371889, z: -0.01083809, w: 0.9985989}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.0004558436, y: -0.09693387, z: -0.1338826}
+          q: {x: -0.1396871, y: -0.4667886, z: -0.5462521, w: 0.6813257}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 1.746304E-09, y: -0.04648127, z: -0.01996998}
+          q: {x: -3.565916E-16, y: 2.220446E-16, z: -7.917924E-32, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.05992571, y: 0.01518759, z: 0.02195785}
+          q: {x: -3.565916E-16, y: 2.220446E-16, z: -7.917924E-32, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.01531277, y: -0.01934735, z: -0.004217647}
+          q: {x: -3.565916E-16, y: 2.220446E-16, z: -7.917924E-32, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.00838975, y: -0.02176074, z: -0.005333376}
+          q: {x: -3.565916E-16, y: 2.220446E-16, z: -7.917924E-32, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.04636259, y: -0.009074887, z: -0.03392367}
+          q: {x: -3.565916E-16, y: 2.220446E-16, z: -7.917924E-32, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.009945018, y: -0.02864498, z: -0.01038141}
+          q: {x: -3.565916E-16, y: 2.220446E-16, z: -7.917924E-32, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.009436846, y: -0.0157091, z: 0.003423207}
+          q: {x: -3.565916E-16, y: 2.220446E-16, z: -7.917924E-32, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.005558606, y: -0.0171343, z: 0.010489}
+          q: {x: -3.565916E-16, y: 2.220446E-16, z: -7.917924E-32, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.01886089, y: -0.01507875, z: -0.03944992}
+          q: {x: -3.565916E-16, y: 2.220446E-16, z: -7.917924E-32, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.008253303, y: -0.02798972, z: -0.0145969}
+          q: {x: -3.565916E-16, y: 2.220446E-16, z: -7.917924E-32, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.007392546, y: -0.02451945, z: 0.005551482}
+          q: {x: -3.565916E-16, y: 2.220446E-16, z: -7.917924E-32, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.00536622, y: -0.01655568, z: 0.009813488}
+          q: {x: -3.565916E-16, y: 2.220446E-16, z: -7.917924E-32, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.001794682, y: -0.02375658, z: -0.03381891}
+          q: {x: -3.565916E-16, y: 2.220446E-16, z: -7.917924E-32, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.0008220111, y: -0.02603906, z: -0.009466474}
+          q: {x: -3.565916E-16, y: 2.220446E-16, z: -7.917924E-32, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.003128908, y: -0.02323647, z: 0.002306725}
+          q: {x: -3.565916E-16, y: 2.220446E-16, z: -7.917924E-32, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.007259372, y: -0.01967726, z: 0.007582546}
+          q: {x: -3.565916E-16, y: 2.220446E-16, z: -7.917924E-32, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.02226895, y: -0.0263699, z: -0.01465673}
+          q: {x: -3.565916E-16, y: 2.220446E-16, z: -7.917924E-32, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.0006692138, y: -0.02535251, z: -0.0006330841}
+          q: {x: -3.565916E-16, y: 2.220446E-16, z: -7.917924E-32, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.001956331, y: -0.02605372, z: -0.001574179}
+          q: {x: -3.565916E-16, y: 2.220446E-16, z: -7.917924E-32, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 1.598827E-32, y: 0.157138, z: 0.0697945}
+          q: {x: 0, y: 1.110223E-16, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.04333369, y: -0.08053915, z: 0.1249036}
+          q: {x: -0.1335781, y: -0.1403605, z: 0.2096419, w: 0.9583873}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.02069776, y: -0.1246292, z: 0.161707}
+          q: {x: -0.009047179, y: -0.04099672, z: -0.03308738, w: 0.9985703}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.03085773, y: -0.09945197, z: 0.1324075}
+          q: {x: 0.128819, y: 0.185767, z: -0.1818381, w: 0.9569907}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 3.552714E-17, y: -0.04648167, z: 0.01997}
+          q: {x: -5.571744E-17, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.0500179, y: 0.00139644, z: -0.01914351}
+          q: {x: -5.571744E-17, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.02102907, y: -0.01778463, z: 0.006448212}
+          q: {x: -5.571744E-17, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.006532886, y: -0.01528241, z: 0.003887502}
+          q: {x: -5.571744E-17, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.03391583, y: -0.01112544, z: 0.03575157}
+          q: {x: -5.571744E-17, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.01620508, y: -0.02755979, z: 0.008051338}
+          q: {x: -5.571744E-17, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.006852187, y: -0.01824269, z: -0.00430627}
+          q: {x: -5.571744E-17, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.005389811, y: -0.0161685, z: -0.006243952}
+          q: {x: -5.571744E-17, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.01229198, y: -0.02046978, z: 0.05094092}
+          q: {x: -5.571744E-17, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.005309922, y: -0.02495871, z: 0.004539757}
+          q: {x: -5.571744E-17, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.008334109, y: -0.02602512, z: -0.00412894}
+          q: {x: -5.571744E-17, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.005825411, y: -0.01913088, z: -0.01279677}
+          q: {x: -5.571744E-17, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.01391496, y: -0.02682975, z: 0.04182567}
+          q: {x: -5.571744E-17, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.006174767, y: -0.02839821, z: 0.002270627}
+          q: {x: -5.571744E-17, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.002438866, y: -0.01839511, z: -0.0007457269}
+          q: {x: -5.571744E-17, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.003840554, y: -0.01715166, z: -0.006318984}
+          q: {x: -5.571744E-17, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.03230341, y: -0.02585141, z: 0.02060763}
+          q: {x: -5.571744E-17, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.0006692138, y: -0.02535251, z: -0.0006330841}
+          q: {x: -5.571744E-17, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.006101236, y: -0.02780684, z: -0.007740879}
+          q: {x: -5.571744E-17, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.01209959, y: -0.1167234, z: 0.06874846}
+          q: {x: 0.7416895, y: 0.04223184, z: -0.6592078, w: 0.1164396}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.01901368, y: 0.1555375, z: 0.01837944}
+          q: {x: 0.05134667, y: 0.005404706, z: 0.01271416, w: 0.9985853}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.01502641, y: 0.15589, z: 0.002113435}
+          q: {x: -0.0004766819, y: -0.7507188, z: -0.08634464, w: 0.6549547}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.1001896, y: 0.03634246, z: 4.014959E-05}
+          q: {x: 0.0001046757, y: 0.0002249622, z: -0.03195572, w: 0.9994893}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.04726148, y: 0.005969791, z: 0.0005028788}
+          q: {x: 1.552579E-15, y: 5.673088E-17, z: 1.387779E-17, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+    m_SkeletonNameIDArray: 0000000000edf69b6382cc2b4641db846c31f2cef3f533f7db2ee2b6ff76ac09245a06ff2479ae0b4f6b4a2bd95b4d5c70c10c12bfe1ee953bc164f6a259c10763e857652aec03bb1e01826526d99c9932a79596708f2e136402761f2b88c00cc5ce588a7f9f5113e9af56646811c02ed240c9b74470cec0e7e5aa5e20f3a0799aa2a9e00c92ae97af07ca0970175a68ca4653f15c765486ffe33018f89f816c42ce88f5d4fe8f8298a12c2cc189f9bacd0099736084da739607776c501e965eea4f9fc77c7f98b0a82c1d7e127d14e7940d934127d8770eadec94e217bd9d7b818d9a0c2218fe9200eb16b0baba1f296276eb2a8f1f7cc038a25c3c82f355a514c352d268b75ea2a71c205ddfa84eda917d091099d5b19f9cf6f3a77056b570136bba8a
+    m_Human:
+      data:
+        serializedVersion: 2
+        m_RootX:
+          t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        m_Skeleton:
+          data:
+            m_Node: []
+            m_ID:
+            m_AxesArray: []
+        m_SkeletonPose:
+          data:
+            m_X: []
+        m_LeftHand:
+          data:
+            m_HandBoneIndex: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+        m_RightHand:
+          data:
+            m_HandBoneIndex: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+        m_Handles: []
+        m_ColliderArray: []
+        m_HumanBoneIndex: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+        m_HumanBoneMass:
+        - 0.1454546
+        - 0.1212121
+        - 0.1212121
+        - 0.04848485
+        - 0.04848485
+        - 0.009696971
+        - 0.009696971
+        - 0.03030303
+        - 0.2909091
+        - 0
+        - 0.01212121
+        - 0.04848485
+        - 0.006060607
+        - 0.006060607
+        - 0.02424243
+        - 0.02424243
+        - 0.01818182
+        - 0.01818182
+        - 0.006060607
+        - 0.006060607
+        - 0.002424243
+        - 0.002424243
+        - 0
+        - 0
+        - 0
+        m_ColliderIndex: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+        m_Scale: 1
+        m_ArmTwist: 0.5
+        m_ForeArmTwist: 0.5
+        m_UpperLegTwist: 0.5
+        m_LegTwist: 0.5
+        m_ArmStretch: 0.05
+        m_LegStretch: 0.05
+        m_FeetSpacing: 0
+        m_HasLeftHand: 0
+        m_HasRightHand: 0
+        m_HasTDoF: 0
+    m_HumanSkeletonIndexArray:
+    m_HumanSkeletonReverseIndexArray:
+    m_RootMotionBoneIndex: -1
+    m_RootMotionBoneX:
+      t: {x: 0, y: 0, z: 0}
+      q: {x: 0, y: 0, z: 0, w: 1}
+      s: {x: 1, y: 1, z: 1}
+    m_RootMotionSkeleton:
+      data:
+        m_Node: []
+        m_ID:
+        m_AxesArray: []
+    m_RootMotionSkeletonPose:
+      data:
+        m_X: []
+    m_RootMotionSkeletonIndexArray:
+  m_TOS:
+    0:
+    84454664: transform1/target_1_character_rig:root/target_1_character_rig:Ribs/target_1_character_rig:spine2/target_1_character_rig:spine3/target_1_character_rig:Right_Shoulder_Joint_01/target_1_character_rig:Right_Upper_Arm_Joint_01/target_1_character_rig:Right_Forearm_Joint_01/target_1_character_rig:Right_Wrist_Joint_01/target_1_character_rig:Right_HandEnd_Joint_01/target_2_character:Right_Middle_Finger_Joint_01a
+    92955770: transform1/target_1_character_rig:root/target_1_character_rig:Ribs/target_1_character_rig:spine2/target_1_character_rig:spine3/target_1_character_rig:Right_Shoulder_Joint_01/target_1_character_rig:Right_Upper_Arm_Joint_01/target_1_character_rig:Right_Forearm_Joint_01/target_1_character_rig:Right_Wrist_Joint_01/target_1_character_rig:Right_HandEnd_Joint_01/target_2_character:Right_Middle_Finger_Joint_01a/target_2_character:Right_Middle_Finger_Joint_01b/target_2_character:Right_Middle_Finger_Joint_01c/target_2_character:Right_Middle_Finger_Joint_01d
+    128632877: transform1/target_1_character_rig:root/target_1_character_rig:Ribs/target_1_character_rig:spine2/target_1_character_rig:spine3/target_1_character_rig:Neck/target_1_character_rig:Head
+    228627377: transform1/target_1_character_rig:root/target_1_character_rig:Ribs/target_1_character_rig:spine2/target_1_character_rig:spine3/target_1_character_rig:Left_Shoulder_Joint_01/target_1_character_rig:Left_Upper_Arm_Joint_01/target_1_character_rig:Left_Forearm_Joint_01/target_1_character_rig:Left_Wrist_Joint_01/target_1_character_rig:Left_HandEnd_Joint_01/target_1_character_rig:Left_Thumb_Joint_01a
+    386542658: transform1/target_1_character_rig:root/target_1_character_rig:Ribs/target_1_character_rig:spine2/target_1_character_rig:spine3/target_1_character_rig:Left_Shoulder_Joint_01/target_1_character_rig:Left_Upper_Arm_Joint_01/target_1_character_rig:Left_Forearm_Joint_01/target_1_character_rig:Left_Wrist_Joint_01/target_1_character_rig:Left_HandEnd_Joint_01/target_1_character_rig:Left_Index_Finger_Joint_01a/target_1_character_rig:Left_Index_Finger_Joint_01b
+    392788268: transform1/target_1_character_rig:root/target_1_character_rig:Right_Thigh_Joint_01
+    405798966: transform1/target_1_character_rig:root/target_1_character_rig:Ribs/target_1_character_rig:spine2/target_1_character_rig:spine3/target_1_character_rig:Right_Shoulder_Joint_01/target_1_character_rig:Right_Upper_Arm_Joint_01/target_1_character_rig:Right_Forearm_Joint_01/target_1_character_rig:Right_Wrist_Joint_01/target_1_character_rig:Right_HandEnd_Joint_01/target_2_character:Right_Pinky_Finger_Joint_01a
+    412066439: transform1/target_1_character_rig:root/target_1_character_rig:Ribs/target_1_character_rig:spine2/target_1_character_rig:spine3/target_1_character_rig:Left_Shoulder_Joint_01/target_1_character_rig:Left_Upper_Arm_Joint_01/target_1_character_rig:Left_Forearm_Joint_01/target_1_character_rig:Left_Wrist_Joint_01/target_1_character_rig:Left_HandEnd_Joint_01/target_1_character_rig:Left_Thumb_Joint_01a/target_1_character_rig:Left_Thumb_Joint_01b/target_1_character_rig:Left_Thumb_Joint_01c
+    469730167: transform1/target_1_character_rig:root/target_1_character_rig:Ribs/target_1_character_rig:spine2/target_1_character_rig:spine3/target_1_character_rig:Left_Shoulder_Joint_01/target_1_character_rig:Left_Upper_Arm_Joint_01/target_1_character_rig:Left_Forearm_Joint_01/target_1_character_rig:Left_Wrist_Joint_01/target_1_character_rig:Left_HandEnd_Joint_01/target_1_character_rig:Left_Index_Finger_Joint_01a/target_1_character_rig:Left_Index_Finger_Joint_01b/target_1_character_rig:Left_Index_Finger_Joint_01c/target_1_character_rig:Left_Index_Finger_Joint_01d
+    470957555: transform1/target_1_character_rig:root/target_1_character_rig:Ribs/target_1_character_rig:spine2/target_1_character_rig:spine3/target_1_character_rig:Right_Shoulder_Joint_01/target_1_character_rig:Right_Upper_Arm_Joint_01
+    532209453: transform1/target_1_character_rig:root/target_1_character_rig:Ribs/target_1_character_rig:spine2/target_1_character_rig:spine3/target_1_character_rig:Left_Shoulder_Joint_01/target_1_character_rig:Left_Upper_Arm_Joint_01/target_1_character_rig:Left_Forearm_Joint_01/target_1_character_rig:Left_Wrist_Joint_01
+    574308298: transform1/target_1_character_rig:root/target_1_character_rig:Ribs/target_1_character_rig:spine2/target_1_character_rig:spine3/target_1_character_rig:Right_Shoulder_Joint_01/target_1_character_rig:Right_Upper_Arm_Joint_01/target_1_character_rig:Right_Forearm_Joint_01/target_1_character_rig:Right_Wrist_Joint_01/target_1_character_rig:Right_HandEnd_Joint_01/target_2_character:Right_Middle_Finger_Joint_01a/target_2_character:Right_Middle_Finger_Joint_01b/target_2_character:Right_Middle_Finger_Joint_01c
+    626824145: transform1/target_1_character_rig:root/target_1_character_rig:Ribs/target_1_character_rig:spine2/target_1_character_rig:spine3/target_1_character_rig:Left_Shoulder_Joint_01/target_1_character_rig:Left_Upper_Arm_Joint_01
+    691493743: transform1/target_1_character_rig:root/target_1_character_rig:Ribs/target_1_character_rig:spine2/target_1_character_rig:spine3/target_1_character_rig:Right_Shoulder_Joint_01/target_1_character_rig:Right_Upper_Arm_Joint_01/target_1_character_rig:Right_Forearm_Joint_01/target_1_character_rig:Right_Wrist_Joint_01/target_1_character_rig:Right_HandEnd_Joint_01/target_2_character:Right_Index_Finger_Joint_01a/target_2_character:Right_Index_Finger_Joint_01b/target_1_character_rig:Left_Index_Finger_Joint_01c 1/target_2_character:Right_Index_Finger_Joint_01d
+    703808721: transform1/target_1_character_rig:root/target_1_character_rig:Left_Thigh_Joint_01
+    731404150: transform1/target_1_character_rig:root/target_1_character_rig:Ribs/target_1_character_rig:spine2/target_1_character_rig:spine3/target_1_character_rig:Left_Shoulder_Joint_01/target_1_character_rig:Left_Upper_Arm_Joint_01/target_1_character_rig:Left_Forearm_Joint_01/target_1_character_rig:Left_Wrist_Joint_01/target_1_character_rig:Left_HandEnd_Joint_01/target_1_character_rig:Left_Pinky_Finger_Joint_01a/target_1_character_rig:Left_Pinky_Finger_Joint_01b/target_1_character_rig:Left_Pinky_Finger_Joint_01c
+    734823011: transform1
+    828192741: transform1/target_1_character_rig:root/target_1_character_rig:Left_Thigh_Joint_01/target_1_character_rig:Left_Knee_Joint_01
+    848853596: transform1/target_1_character_rig:root/target_1_character_rig:Ribs/target_1_character_rig:spine2/target_1_character_rig:spine3/target_1_character_rig:Right_Shoulder_Joint_01/target_1_character_rig:Right_Upper_Arm_Joint_01/target_1_character_rig:Right_Forearm_Joint_01/target_1_character_rig:Right_Wrist_Joint_01
+    861574053: transform1/target_1_character_rig:root/target_1_character_rig:Ribs/target_1_character_rig:spine2/target_1_character_rig:spine3/target_1_character_rig:Right_Shoulder_Joint_01/target_1_character_rig:Right_Upper_Arm_Joint_01/target_1_character_rig:Right_Forearm_Joint_01/target_1_character_rig:Right_Wrist_Joint_01/target_1_character_rig:Right_HandEnd_Joint_01/target_2_character:Right_Ring_Finger_Joint_01a/target_2_character:Right_Ring_Finger_Joint_01b
+    987821010: transform1/target_1_character_rig:root/target_1_character_rig:Ribs/target_1_character_rig:spine2/target_1_character_rig:spine3/target_1_character_rig:Neck/Head1/HeadEnd 1
+    998011002: transform1/target_1_character_rig:root/target_1_character_rig:Right_Thigh_Joint_01/target_1_character_rig:Right_Knee_Joint_01/target_1_character_rig:Right_Ankle_Joint_01/target_1_character_rig:Right_Toe_Joint_01/target_1_character_rig:Right_footEnd_Joint_01
+    1074957999: transform1/target_1_character_rig:root/target_1_character_rig:Ribs/target_1_character_rig:spine2/target_1_character_rig:spine3/target_1_character_rig:Left_Shoulder_Joint_01/target_1_character_rig:Left_Upper_Arm_Joint_01/target_1_character_rig:Left_Forearm_Joint_01/target_1_character_rig:Left_Wrist_Joint_01/target_1_character_rig:Left_HandEnd_Joint_01/target_1_character_rig:Left_Middle_Finger_Joint_01a/target_1_character_rig:Left_Middle_Finger_Joint_01b
+    1084263098: transform1/target_1_character_rig:root/target_1_character_rig:Ribs/target_1_character_rig:spine2/target_1_character_rig:spine3/target_1_character_rig:Left_Shoulder_Joint_01/target_1_character_rig:Left_Upper_Arm_Joint_01/target_1_character_rig:Left_Forearm_Joint_01/target_1_character_rig:Left_Wrist_Joint_01/target_1_character_rig:Left_HandEnd_Joint_01/target_1_character_rig:Left_Thumb_Joint_01a/target_1_character_rig:Left_Thumb_Joint_01b
+    1095882655: transform1/target_1_character_rig:root/target_1_character_rig:Ribs/target_1_character_rig:spine2/target_1_character_rig:spine3/target_1_character_rig:Left_Shoulder_Joint_01/target_1_character_rig:Left_Upper_Arm_Joint_01/target_1_character_rig:Left_Forearm_Joint_01/target_1_character_rig:Left_Wrist_Joint_01/target_1_character_rig:Left_HandEnd_Joint_01/target_1_character_rig:Left_Middle_Finger_Joint_01a/target_1_character_rig:Left_Middle_Finger_Joint_01b/target_1_character_rig:Left_Middle_Finger_Joint_01c/target_1_character_rig:Left_Middle_Finger_Joint_01d
+    1101915688: transform1/target_1_character_rig:root/target_1_character_rig:Ribs/target_1_character_rig:spine2/target_1_character_rig:spine3/target_1_character_rig:Left_Shoulder_Joint_01/target_1_character_rig:Left_Upper_Arm_Joint_01/target_1_character_rig:Left_Forearm_Joint_01/target_1_character_rig:Left_Wrist_Joint_01/target_1_character_rig:Left_HandEnd_Joint_01/target_1_character_rig:Left_Ring_Finger_Joint_01a/target_1_character_rig:Left_Ring_Finger_Joint_01b/target_1_character_rig:Left_Ring_Finger_Joint_01c/target_1_character_rig:Left_Ring_Finger_Joint_01d
+    1164987961: transform1/target_1_character_rig:root/target_1_character_rig:Right_Thigh_Joint_01/target_1_character_rig:Right_Knee_Joint_01/target_1_character_rig:Right_Ankle_Joint_01
+    1356527804: transform1/target_1_character_rig:root/target_1_character_rig:Left_Thigh_Joint_01/target_1_character_rig:Left_Knee_Joint_01/target_1_character_rig:Left_Ankle_Joint_01
+    1365609637: head/head_R
+    1412529399: transform1/target_1_character_rig:root/target_1_character_rig:Ribs/target_1_character_rig:spine2/target_1_character_rig:spine3/target_1_character_rig:Left_Shoulder_Joint_01/target_1_character_rig:Left_Upper_Arm_Joint_01/target_1_character_rig:Left_Forearm_Joint_01/target_1_character_rig:Left_Wrist_Joint_01/target_1_character_rig:Left_HandEnd_Joint_01/target_1_character_rig:Left_Ring_Finger_Joint_01a/target_1_character_rig:Left_Ring_Finger_Joint_01b
+    1437020818: transform1/target_1_character_rig:root/target_1_character_rig:Ribs/target_1_character_rig:spine2/target_1_character_rig:spine3/target_1_character_rig:Right_Shoulder_Joint_01
+    1504664353: transform1/target_1_character_rig:root/target_1_character_rig:Ribs/target_1_character_rig:spine2/target_1_character_rig:spine3/target_1_character_rig:Right_Shoulder_Joint_01/target_1_character_rig:Right_Upper_Arm_Joint_01/target_1_character_rig:Right_Forearm_Joint_01/target_1_character_rig:Right_Wrist_Joint_01/target_1_character_rig:Right_HandEnd_Joint_01/target_2_character:Right_Thumb_Joint_01a
+    1516850894: transform1/target_1_character_rig:root/target_1_character_rig:Ribs/target_1_character_rig:spine2/target_1_character_rig:spine3/target_1_character_rig:Left_Shoulder_Joint_01/target_1_character_rig:Left_Upper_Arm_Joint_01/target_1_character_rig:Left_Forearm_Joint_01/target_1_character_rig:Left_Wrist_Joint_01/target_1_character_rig:Left_HandEnd_Joint_01/target_1_character_rig:Left_Index_Finger_Joint_01a/target_1_character_rig:Left_Index_Finger_Joint_01b/target_1_character_rig:Left_Index_Finger_Joint_01c
+    1517391526: transform1/target_1_character_rig:root/target_1_character_rig:Ribs/target_1_character_rig:spine2/target_1_character_rig:spine3/target_1_character_rig:Right_Shoulder_Joint_01/target_1_character_rig:Right_Upper_Arm_Joint_01/target_1_character_rig:Right_Forearm_Joint_01/target_1_character_rig:Right_Wrist_Joint_01/target_1_character_rig:Right_HandEnd_Joint_01/target_2_character:Right_Index_Finger_Joint_01a
+    1630383444: transform1/target_1_character_rig:root/target_1_character_rig:Ribs/target_1_character_rig:spine2/target_1_character_rig:spine3/target_1_character_rig:Left_Shoulder_Joint_01/target_1_character_rig:Left_Upper_Arm_Joint_01/target_1_character_rig:Left_Forearm_Joint_01
+    1678795764: transform1/target_1_character_rig:root/target_1_character_rig:Ribs/target_1_character_rig:spine2/target_1_character_rig:spine3/target_1_character_rig:Right_Shoulder_Joint_01/target_1_character_rig:Right_Upper_Arm_Joint_01/target_1_character_rig:Right_Forearm_Joint_01/target_1_character_rig:Right_Wrist_Joint_01/target_1_character_rig:Right_HandEnd_Joint_01
+    1746355187: transform1/target_1_character_rig:root/target_1_character_rig:Ribs/target_1_character_rig:spine2/target_1_character_rig:spine3/target_1_character_rig:Right_Shoulder_Joint_01/target_1_character_rig:Right_Upper_Arm_Joint_01/target_1_character_rig:Right_Forearm_Joint_01/target_1_character_rig:Right_Wrist_Joint_01/target_1_character_rig:Right_HandEnd_Joint_01/target_2_character:Right_Ring_Finger_Joint_01a
+    1915055640: transform1/target_1_character_rig:root/target_1_character_rig:Ribs/target_1_character_rig:spine2/target_1_character_rig:spine3/target_1_character_rig:Right_Shoulder_Joint_01/target_1_character_rig:Right_Upper_Arm_Joint_01/target_1_character_rig:Right_Forearm_Joint_01/target_1_character_rig:Right_Wrist_Joint_01/target_1_character_rig:Right_HandEnd_Joint_01/target_2_character:Right_Middle_Finger_Joint_01a/target_2_character:Right_Middle_Finger_Joint_01b
+    2064352628: transform1/target_1_character_rig:root/target_1_character_rig:Ribs
+    2073175639: transform1/target_1_character_rig:root
+    2251568167: transform1/target_1_character_rig:root/target_1_character_rig:Ribs/target_1_character_rig:spine2/target_1_character_rig:spine3/target_1_character_rig:Left_Shoulder_Joint_01/target_1_character_rig:Left_Upper_Arm_Joint_01/target_1_character_rig:Left_Forearm_Joint_01/target_1_character_rig:Left_Wrist_Joint_01/target_1_character_rig:Left_HandEnd_Joint_01/target_1_character_rig:Left_Pinky_Finger_Joint_01a/target_1_character_rig:Left_Pinky_Finger_Joint_01b
+    2271856889: transform1/target_1_character_rig:root/target_1_character_rig:Ribs/target_1_character_rig:spine2/target_1_character_rig:spine3/target_1_character_rig:Right_Shoulder_Joint_01/target_1_character_rig:Right_Upper_Arm_Joint_01/target_1_character_rig:Right_Forearm_Joint_01
+    2382166474: transform1/target_1_character_rig:root/target_1_character_rig:Ribs/target_1_character_rig:spine2/target_1_character_rig:spine3/target_1_character_rig:Right_Shoulder_Joint_01/target_1_character_rig:Right_Upper_Arm_Joint_01/target_1_character_rig:Right_Forearm_Joint_01/target_1_character_rig:Right_Wrist_Joint_01/target_1_character_rig:Right_HandEnd_Joint_01/target_2_character:Right_Index_Finger_Joint_01a/target_2_character:Right_Index_Finger_Joint_01b/target_1_character_rig:Left_Index_Finger_Joint_01c 1
+    2386389863: transform1/target_1_character_rig:root/target_1_character_rig:Ribs/target_1_character_rig:spine2/target_1_character_rig:spine3/target_1_character_rig:Left_Shoulder_Joint_01/target_1_character_rig:Left_Upper_Arm_Joint_01/target_1_character_rig:Left_Forearm_Joint_01/target_1_character_rig:Left_Wrist_Joint_01/target_1_character_rig:Left_HandEnd_Joint_01/target_1_character_rig:Left_Index_Finger_Joint_01a
+    2408400429: transform1/target_1_character_rig:root/target_1_character_rig:Ribs/target_1_character_rig:spine2/target_1_character_rig:spine3/target_1_character_rig:Right_Shoulder_Joint_01/target_1_character_rig:Right_Upper_Arm_Joint_01/target_1_character_rig:Right_Forearm_Joint_01/target_1_character_rig:Right_Wrist_Joint_01/target_1_character_rig:Right_HandEnd_Joint_01/target_2_character:Right_Thumb_Joint_01a/target_2_character:Right_Thumb_Joint_01b
+    2425643426: transform1/target_1_character_rig:root/target_1_character_rig:Ribs/target_1_character_rig:spine2/target_1_character_rig:spine3/target_1_character_rig:Left_Shoulder_Joint_01/target_1_character_rig:Left_Upper_Arm_Joint_01/target_1_character_rig:Left_Forearm_Joint_01/target_1_character_rig:Left_Wrist_Joint_01/target_1_character_rig:Left_HandEnd_Joint_01/target_1_character_rig:Left_Middle_Finger_Joint_01a/target_1_character_rig:Left_Middle_Finger_Joint_01b/target_1_character_rig:Left_Middle_Finger_Joint_01c
+    2536587302: transform1/target_1_character_rig:root/target_1_character_rig:Right_Thigh_Joint_01/target_1_character_rig:Right_Knee_Joint_01
+    2567615145: transform1/target_1_character_rig:root/target_1_character_rig:Ribs/target_1_character_rig:spine2/target_1_character_rig:spine3/target_1_character_rig:Right_Shoulder_Joint_01/target_1_character_rig:Right_Upper_Arm_Joint_01/target_1_character_rig:Right_Forearm_Joint_01/target_1_character_rig:Right_Wrist_Joint_01/target_1_character_rig:Right_HandEnd_Joint_01/target_2_character:Right_Pinky_Finger_Joint_01a/target_2_character:Right_Pinky_Finger_Joint_01b
+    2616651008: dos
+    2638171102: transform1/target_1_character_rig:root/target_1_character_rig:Left_Thigh_Joint_01/target_1_character_rig:Left_Knee_Joint_01/target_1_character_rig:Left_Ankle_Joint_01/target_1_character_rig:Left_Toe_Joint_01/target_1_character_rig:Left_footEnd_Joint_01
+    2680316048: transform1/target_1_character_rig:root/target_1_character_rig:Ribs/target_1_character_rig:spine2/target_1_character_rig:spine3/target_1_character_rig:Left_Shoulder_Joint_01/target_1_character_rig:Left_Upper_Arm_Joint_01/target_1_character_rig:Left_Forearm_Joint_01/target_1_character_rig:Left_Wrist_Joint_01/target_1_character_rig:Left_HandEnd_Joint_01/target_1_character_rig:Left_Ring_Finger_Joint_01a
+    2817783452: head
+    2875896262: head/head_L
+    2876216151: transform1/target_1_character_rig:root/target_1_character_rig:Ribs/target_1_character_rig:spine2/target_1_character_rig:spine3/target_1_character_rig:Neck/Head1
+    2941063443: transform1/target_1_character_rig:root/target_1_character_rig:Left_Thigh_Joint_01/target_1_character_rig:Left_Knee_Joint_01/target_1_character_rig:Left_Ankle_Joint_01/target_1_character_rig:Left_Toe_Joint_01
+    2942626491: transform1/target_1_character_rig:root/target_1_character_rig:Ribs/target_1_character_rig:spine2/target_1_character_rig:spine3/target_1_character_rig:Right_Shoulder_Joint_01/target_1_character_rig:Right_Upper_Arm_Joint_01/target_1_character_rig:Right_Forearm_Joint_01/target_1_character_rig:Right_Wrist_Joint_01/target_1_character_rig:Right_HandEnd_Joint_01/target_2_character:Right_Ring_Finger_Joint_01a/target_2_character:Right_Ring_Finger_Joint_01b/target_1_character_rig:Left_Ring_Finger_Joint_01c 1/target_2_character:Right_Ring_Finger_Joint_01d
+    2982444600: transform1/target_1_character_rig:root/target_1_character_rig:Ribs/target_1_character_rig:spine2/target_1_character_rig:spine3/target_1_character_rig:Neck/Head
+    3140328471: transform1/target_1_character_rig:root/target_1_character_rig:Ribs/target_1_character_rig:spine2/target_1_character_rig:spine3/target_1_character_rig:Neck
+    3148162893: transform1/target_1_character_rig:root/target_1_character_rig:Right_Thigh_Joint_01/target_1_character_rig:Right_Knee_Joint_01/target_1_character_rig:Right_Ankle_Joint_01/target_1_character_rig:Right_Toe_Joint_01
+    3235976660: transform1/target_1_character_rig:root/target_1_character_rig:Ribs/target_1_character_rig:spine2/target_1_character_rig:spine3/target_1_character_rig:Right_Shoulder_Joint_01/target_1_character_rig:Right_Upper_Arm_Joint_01/target_1_character_rig:Right_Forearm_Joint_01/target_1_character_rig:Right_Wrist_Joint_01/target_1_character_rig:Right_HandEnd_Joint_01/target_2_character:Right_Index_Finger_Joint_01a/target_2_character:Right_Index_Finger_Joint_01b
+    3278546191: transform1/target_1_character_rig:root/target_1_character_rig:Ribs/target_1_character_rig:spine2/target_1_character_rig:spine3
+    3301597978: transform1/target_1_character_rig:root/target_1_character_rig:Ribs/target_1_character_rig:spine2/target_1_character_rig:spine3/target_1_character_rig:Neck/target_1_character_rig:Head/target_1_character_rig:HeadEnd
+    3430737399: transform1/target_1_character_rig:root/target_1_character_rig:Ribs/target_1_character_rig:spine2/target_1_character_rig:spine3/target_1_character_rig:Left_Shoulder_Joint_01/target_1_character_rig:Left_Upper_Arm_Joint_01/target_1_character_rig:Left_Forearm_Joint_01/target_1_character_rig:Left_Wrist_Joint_01/target_1_character_rig:Left_HandEnd_Joint_01/target_1_character_rig:Left_Pinky_Finger_Joint_01a
+    3468130095: transform1/target_1_character_rig:root/target_1_character_rig:Ribs/target_1_character_rig:spine2/target_1_character_rig:spine3/target_1_character_rig:Left_Shoulder_Joint_01
+    3510203607: transform1/target_1_character_rig:root/target_1_character_rig:Ribs/target_1_character_rig:spine2/target_1_character_rig:spine3/target_1_character_rig:Left_Shoulder_Joint_01/target_1_character_rig:Left_Upper_Arm_Joint_01/target_1_character_rig:Left_Forearm_Joint_01/target_1_character_rig:Left_Wrist_Joint_01/target_1_character_rig:Left_HandEnd_Joint_01/target_1_character_rig:Left_Ring_Finger_Joint_01a/target_1_character_rig:Left_Ring_Finger_Joint_01b/target_1_character_rig:Left_Ring_Finger_Joint_01c
+    3551716793: transform1/target_1_character_rig:root/target_1_character_rig:Ribs/target_1_character_rig:spine2
+    3573833656: transform1/target_1_character_rig:root/target_1_character_rig:Ribs/target_1_character_rig:spine2/target_1_character_rig:spine3/target_1_character_rig:Right_Shoulder_Joint_01/target_1_character_rig:Right_Upper_Arm_Joint_01/target_1_character_rig:Right_Forearm_Joint_01/target_1_character_rig:Right_Wrist_Joint_01/target_1_character_rig:Right_HandEnd_Joint_01/target_2_character:Right_Ring_Finger_Joint_01a/target_2_character:Right_Ring_Finger_Joint_01b/target_1_character_rig:Left_Ring_Finger_Joint_01c 1
+    3606459674: transform1/target_1_character_rig:root/target_1_character_rig:Ribs/target_1_character_rig:spine2/target_1_character_rig:spine3/target_1_character_rig:Right_Shoulder_Joint_01/target_1_character_rig:Right_Upper_Arm_Joint_01/target_1_character_rig:Right_Forearm_Joint_01/target_1_character_rig:Right_Wrist_Joint_01/target_1_character_rig:Right_HandEnd_Joint_01/target_2_character:Right_Pinky_Finger_Joint_01a/target_2_character:Right_Pinky_Finger_Joint_01b/target_2_character:Right_Pinky_Finger_Joint_01c
+    3917066275: transform1/target_1_character_rig:root/target_1_character_rig:Ribs/target_1_character_rig:spine2/target_1_character_rig:spine3/target_1_character_rig:Left_Shoulder_Joint_01/target_1_character_rig:Left_Upper_Arm_Joint_01/target_1_character_rig:Left_Forearm_Joint_01/target_1_character_rig:Left_Wrist_Joint_01/target_1_character_rig:Left_HandEnd_Joint_01
+    3921613771: transform1/target_1_character_rig:root/target_1_character_rig:Ribs/target_1_character_rig:spine2/target_1_character_rig:spine3/target_1_character_rig:Left_Shoulder_Joint_01/target_1_character_rig:Left_Upper_Arm_Joint_01/target_1_character_rig:Left_Forearm_Joint_01/target_1_character_rig:Left_Wrist_Joint_01/target_1_character_rig:Left_HandEnd_Joint_01/target_1_character_rig:Left_Middle_Finger_Joint_01a
+    4036624941: transform1/target_1_character_rig:root/target_1_character_rig:Ribs/target_1_character_rig:spine2/target_1_character_rig:spine3/target_1_character_rig:Right_Shoulder_Joint_01/target_1_character_rig:Right_Upper_Arm_Joint_01/target_1_character_rig:Right_Forearm_Joint_01/target_1_character_rig:Right_Wrist_Joint_01/target_1_character_rig:Right_HandEnd_Joint_01/target_2_character:Right_Thumb_Joint_01a/target_2_character:Right_Thumb_Joint_01b/target_2_character:Right_Thumb_Joint_01c
+    4042130998: transform1/target_1_character_rig:root/target_1_character_rig:Ribs/target_1_character_rig:spine2/target_1_character_rig:spine3/target_1_character_rig:Neck/Head/HeadEnd

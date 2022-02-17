@@ -1,0 +1,756 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!90 &9000000
+Avatar:
+  m_Name: objetivo_8_character_animation_rigAvatar
+  m_AvatarSize: 8404
+  m_Avatar:
+    serializedVersion: 3
+    m_AvatarSkeleton:
+      data:
+        m_Node:
+        - m_ParentId: -1
+          m_AxesId: -1
+        - m_ParentId: 0
+          m_AxesId: -1
+        - m_ParentId: 1
+          m_AxesId: -1
+        - m_ParentId: 2
+          m_AxesId: -1
+        - m_ParentId: 3
+          m_AxesId: -1
+        - m_ParentId: 4
+          m_AxesId: -1
+        - m_ParentId: 5
+          m_AxesId: -1
+        - m_ParentId: 6
+          m_AxesId: -1
+        - m_ParentId: 2
+          m_AxesId: -1
+        - m_ParentId: 8
+          m_AxesId: -1
+        - m_ParentId: 9
+          m_AxesId: -1
+        - m_ParentId: 10
+          m_AxesId: -1
+        - m_ParentId: 11
+          m_AxesId: -1
+        - m_ParentId: 12
+          m_AxesId: -1
+        - m_ParentId: 11
+          m_AxesId: -1
+        - m_ParentId: 14
+          m_AxesId: -1
+        - m_ParentId: 11
+          m_AxesId: -1
+        - m_ParentId: 16
+          m_AxesId: -1
+        - m_ParentId: 10
+          m_AxesId: -1
+        - m_ParentId: 18
+          m_AxesId: -1
+        - m_ParentId: 19
+          m_AxesId: -1
+        - m_ParentId: 20
+          m_AxesId: -1
+        - m_ParentId: 21
+          m_AxesId: -1
+        - m_ParentId: 22
+          m_AxesId: -1
+        - m_ParentId: 23
+          m_AxesId: -1
+        - m_ParentId: 24
+          m_AxesId: -1
+        - m_ParentId: 22
+          m_AxesId: -1
+        - m_ParentId: 26
+          m_AxesId: -1
+        - m_ParentId: 27
+          m_AxesId: -1
+        - m_ParentId: 28
+          m_AxesId: -1
+        - m_ParentId: 22
+          m_AxesId: -1
+        - m_ParentId: 30
+          m_AxesId: -1
+        - m_ParentId: 31
+          m_AxesId: -1
+        - m_ParentId: 32
+          m_AxesId: -1
+        - m_ParentId: 22
+          m_AxesId: -1
+        - m_ParentId: 34
+          m_AxesId: -1
+        - m_ParentId: 35
+          m_AxesId: -1
+        - m_ParentId: 36
+          m_AxesId: -1
+        - m_ParentId: 22
+          m_AxesId: -1
+        - m_ParentId: 38
+          m_AxesId: -1
+        - m_ParentId: 39
+          m_AxesId: -1
+        - m_ParentId: 10
+          m_AxesId: -1
+        - m_ParentId: 41
+          m_AxesId: -1
+        - m_ParentId: 42
+          m_AxesId: -1
+        - m_ParentId: 43
+          m_AxesId: -1
+        - m_ParentId: 44
+          m_AxesId: -1
+        - m_ParentId: 45
+          m_AxesId: -1
+        - m_ParentId: 46
+          m_AxesId: -1
+        - m_ParentId: 47
+          m_AxesId: -1
+        - m_ParentId: 45
+          m_AxesId: -1
+        - m_ParentId: 49
+          m_AxesId: -1
+        - m_ParentId: 50
+          m_AxesId: -1
+        - m_ParentId: 51
+          m_AxesId: -1
+        - m_ParentId: 45
+          m_AxesId: -1
+        - m_ParentId: 53
+          m_AxesId: -1
+        - m_ParentId: 54
+          m_AxesId: -1
+        - m_ParentId: 55
+          m_AxesId: -1
+        - m_ParentId: 45
+          m_AxesId: -1
+        - m_ParentId: 57
+          m_AxesId: -1
+        - m_ParentId: 58
+          m_AxesId: -1
+        - m_ParentId: 59
+          m_AxesId: -1
+        - m_ParentId: 45
+          m_AxesId: -1
+        - m_ParentId: 61
+          m_AxesId: -1
+        - m_ParentId: 62
+          m_AxesId: -1
+        - m_ParentId: 2
+          m_AxesId: -1
+        - m_ParentId: 64
+          m_AxesId: -1
+        - m_ParentId: 65
+          m_AxesId: -1
+        - m_ParentId: 66
+          m_AxesId: -1
+        - m_ParentId: 67
+          m_AxesId: -1
+        - m_ParentId: 0
+          m_AxesId: -1
+        - m_ParentId: 0
+          m_AxesId: -1
+        - m_ParentId: 70
+          m_AxesId: -1
+        - m_ParentId: 70
+          m_AxesId: -1
+        m_ID: 000000006382cc2b72d377f7a4a58117cd1ce3a7afb9d6d532ffa737eb9ab7cd30ff7dabbe5a37c5121fff8ee7f90fabc5b5e79818d243098ba9038443f3dfa3b6b632f9f84ccf50357f02fae4c875edae9e12c4c67ac78ed3b32cf222ff5bd9c76ce6a7061abb586587f9b9eed6ec7c41b9df45ce8000f30bb68607b64057c388835600b86f7a507b921583130b8cd31dfb6b33866fefbcf509b8fbab247ed58c0529f5e07ef1a81764121ad8511b3196d2f723d218d9da56bc3ff55a23960b91d3f8b494ca44ae828ffd21bc26eb0b1aae8ffcccc92bcdb96789b87d04c25566e2d201e520e68905a4d6eecd53d697dd209bf2044405ec35f4ee95bb3ac6dd7e8e3837a34173609f4b50f8532c58a51daaeaa4eae8d5d79cf6f3a7c6b16aaba58c6551
+        m_AxesArray: []
+    m_AvatarSkeletonPose:
+      data:
+        m_X:
+        - t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -1.387779E-19, y: -7.105427E-17, z: 1.065064E-17}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1.180707, y: 1.180707, z: 1.180707}
+        - t: {x: -0.0004879225, y: 0.4810666, z: 6.217249E-17}
+          q: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.01534229, y: -0.03004559, z: -0.0595457}
+          q: {x: -0.02781126, y: 0.02904153, z: -0.04787497, w: 0.9980437}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.003865975, y: -0.1860416, z: -0.01548656}
+          q: {x: -0.004343559, y: -0.007280956, z: 0.08156235, w: 0.9966322}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.03102724, y: -0.2118752, z: -0.0160324}
+          q: {x: 0.02400613, y: -0.1886515, z: -0.03850794, w: 0.9809951}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.1001896, y: -0.03634243, z: -4.033004E-05}
+          q: {x: 7.898894E-17, y: 8.326673E-17, z: -2.35076E-17, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.04752023, y: -0.003041767, z: -2.058981E-05}
+          q: {x: 7.898894E-17, y: 8.326673E-17, z: -2.35076E-17, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0, y: 0.02908944, z: 0.0004879225}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 6.669882E-18, y: 0.1053243, z: -2.551213E-21}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 6.393887E-18, y: 0.1024618, z: 2.287697E-31}
+          q: {x: 0, y: 0, z: -1.110223E-16, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -6.071677E-17, y: 0.2032737, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -1.190649E-17, y: 0.04874294, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.07141704, y: 0.413969, z: 3.155444E-32}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -1.557116E-17, y: 0.04874294, z: -0.01}
+          q: {x: -0.5, y: 0, z: 0, w: 0.8660254}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.07141704, y: 0.413969, z: 3.155444E-32}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -1.070501E-17, y: 0.04874294, z: 0.01}
+          q: {x: 0.5, y: 0, z: 0, w: 0.8660254}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.07141704, y: 0.413969, z: 3.155444E-32}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -4.947987E-17, y: 0.1571384, z: -0.07277387}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.02121565, y: -0.0612908, z: -0.08168898}
+          q: {x: 0.004765451, y: 0.5062614, z: 0.7375806, w: -0.4468239}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.01541496, y: -0.09677389, z: -0.1138226}
+          q: {x: 0.03340676, y: 0.03575988, z: -0.03710032, w: 0.9981126}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -2.777486E-08, y: -0.1497523, z: -0.1538869}
+          q: {x: -0.05532873, y: 0.5141445, z: 0.7360237, w: 0.4368791}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.002565957, y: -0.01506154, z: -0.02675026}
+          q: {x: 0.02723955, y: 0.2954611, z: 0.08766976, w: 0.9509336}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.04261848, y: 0, z: 0}
+          q: {x: -3.95517E-16, y: 8.326673E-17, z: -9.714451E-17, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.01039669, y: -0.01620004, z: -0.01646623}
+          q: {x: -1.526557E-16, y: 8.326673E-17, z: -8.326673E-17, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.002571216, y: -0.02442523, z: -0.01762188}
+          q: {x: -1.526557E-16, y: 8.326673E-17, z: -8.326673E-17, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.004891342, y: -0.02346452, z: -0.03751076}
+          q: {x: -3.95517E-16, y: 8.326673E-17, z: -9.714451E-17, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.004513482, y: -0.0217016, z: -0.01497446}
+          q: {x: -1.526557E-16, y: 8.326673E-17, z: -8.326673E-17, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.005909892, y: -0.01610954, z: -0.003347624}
+          q: {x: -1.526557E-16, y: 8.326673E-17, z: -8.326673E-17, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.007719881, y: -0.01297275, z: 0.0005067165}
+          q: {x: -1.526557E-16, y: 8.326673E-17, z: -8.326673E-17, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.01469673, y: -0.02837721, z: -0.02775366}
+          q: {x: -3.95517E-16, y: 8.326673E-17, z: -9.714451E-17, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.00186925, y: -0.02424607, z: -0.01340329}
+          q: {x: -1.526557E-16, y: 8.326673E-17, z: -8.326673E-17, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.007172324, y: -0.02079858, z: -0.003584736}
+          q: {x: -1.526557E-16, y: 8.326673E-17, z: -8.326673E-17, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.009415059, y: -0.01654726, z: 0.0006143787}
+          q: {x: -1.526557E-16, y: 8.326673E-17, z: -8.326673E-17, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.02704185, y: -0.0354594, z: -0.01159905}
+          q: {x: -3.95517E-16, y: 8.326673E-17, z: -9.714451E-17, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.001981509, y: -0.02239124, z: -0.007333795}
+          q: {x: -1.526557E-16, y: 8.326673E-17, z: -8.326673E-17, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.002094841, y: -0.0170846, z: -0.003830553}
+          q: {x: -1.526557E-16, y: 8.326673E-17, z: -8.326673E-17, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.009574282, y: -0.01823412, z: 0.0001047053}
+          q: {x: -1.526557E-16, y: 8.326673E-17, z: -8.326673E-17, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.02828069, y: -0.03841923, z: 0.009986835}
+          q: {x: -3.95517E-16, y: 8.326673E-17, z: -9.714451E-17, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.0004227532, y: -0.02570856, z: -0.003231214}
+          q: {x: -1.526557E-16, y: 8.326673E-17, z: -8.326673E-17, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.005952268, y: -0.01942353, z: 0.0002834802}
+          q: {x: -1.526557E-16, y: 8.326673E-17, z: -8.326673E-17, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -1.716118E-17, y: 0.1571355, z: 0.07277389}
+          q: {x: 2.832769E-16, y: 6.123234E-17, z: 1, w: -6.123234E-17}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.02121569, y: 0.06128788, z: 0.08168872}
+          q: {x: 0.1127621, y: -0.4667147, z: -0.6062142, w: 0.6340083}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.01541486, y: 0.09677398, z: 0.1138228}
+          q: {x: -0.1166234, y: -0.04786969, z: 0.04648751, w: 0.9909321}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.01907483, y: 0.1488588, z: 0.1644256}
+          q: {x: 0.01291626, y: 0.4273756, z: 0.6310713, w: 0.6472498}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.002566006, y: 0.01506217, z: 0.02675093}
+          q: {x: 0.02723955, y: 0.2954611, z: 0.08766976, w: 0.9509336}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.04261853, y: -1.183239E-07, z: -1.321984E-07}
+          q: {x: -3.122502E-16, y: 5.551115E-16, z: 1.457168E-16, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.01039681, y: 0.01620051, z: 0.01646619}
+          q: {x: -3.122502E-16, y: 5.551115E-16, z: 1.457168E-16, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.002571083, y: 0.02442442, z: 0.01762151}
+          q: {x: -3.122502E-16, y: 5.551115E-16, z: 1.457168E-16, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.004891673, y: 0.02346478, z: 0.03751025}
+          q: {x: -3.122502E-16, y: 5.551115E-16, z: 1.457168E-16, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.004513443, y: 0.02170105, z: 0.01497445}
+          q: {x: -3.122502E-16, y: 5.551115E-16, z: 1.457168E-16, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.005909716, y: 0.01610974, z: 0.003347842}
+          q: {x: -3.122502E-16, y: 5.551115E-16, z: 1.457168E-16, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.007719698, y: 0.0129725, z: -0.0005064989}
+          q: {x: -3.122502E-16, y: 5.551115E-16, z: 1.457168E-16, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.01469647, y: 0.02837735, z: 0.02775326}
+          q: {x: -3.122502E-16, y: 5.551115E-16, z: 1.457168E-16, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.001869465, y: 0.02424574, z: 0.01340354}
+          q: {x: -3.122502E-16, y: 5.551115E-16, z: 1.457168E-16, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.007172632, y: 0.02079905, z: 0.003584393}
+          q: {x: -3.122502E-16, y: 5.551115E-16, z: 1.457168E-16, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.009415044, y: 0.01654676, z: -0.0006144398}
+          q: {x: -3.122502E-16, y: 5.551115E-16, z: 1.457168E-16, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.02704157, y: 0.03545947, z: 0.0115986}
+          q: {x: -3.122502E-16, y: 5.551115E-16, z: 1.457168E-16, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.001981429, y: 0.02239114, z: 0.007333731}
+          q: {x: -3.122502E-16, y: 5.551115E-16, z: 1.457168E-16, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.002094536, y: 0.01708457, z: 0.003830973}
+          q: {x: -3.122502E-16, y: 5.551115E-16, z: 1.457168E-16, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.009574494, y: 0.01823402, z: -0.0001051105}
+          q: {x: -3.122502E-16, y: 5.551115E-16, z: 1.457168E-16, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.02828042, y: 0.038419, z: -0.009987348}
+          q: {x: -3.122502E-16, y: 5.551115E-16, z: 1.457168E-16, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.0004224489, y: 0.02570873, z: 0.003231685}
+          q: {x: -3.122502E-16, y: 5.551115E-16, z: 1.457168E-16, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.00595268, y: 0.01942359, z: -0.0002840481}
+          q: {x: -3.122502E-16, y: 5.551115E-16, z: 1.457168E-16, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.01534231, y: -0.03004588, z: 0.07795124}
+          q: {x: 0.8161289, y: -0.01396023, z: 0.5770226, w: 0.02799333}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.01236303, y: 0.1868712, z: -0.004569178}
+          q: {x: 0.09113907, y: 0.002231319, z: -0.0332206, w: 0.9952814}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.00410885, y: 0.2102132, z: 0.02231014}
+          q: {x: -0.06947543, y: 0.7076979, z: -0.01607351, w: 0.7029071}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.1001896, y: 0.03634246, z: 4.014941E-05}
+          q: {x: 0.0001046738, y: 0.0002249655, z: -0.03195572, w: 0.9994893}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.04726148, y: 0.005969791, z: 0.0005028788}
+          q: {x: 8.224352E-14, y: 1.165242E-11, z: -5.088026E-11, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+    m_DefaultPose:
+      data:
+        m_X:
+        - t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -1.387779E-19, y: -7.105427E-17, z: 1.065064E-17}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1.180707, y: 1.180707, z: 1.180707}
+        - t: {x: -0.0004879225, y: 0.4810666, z: 6.217249E-17}
+          q: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.01534229, y: -0.03004559, z: -0.0595457}
+          q: {x: -0.02781126, y: 0.02904153, z: -0.04787497, w: 0.9980437}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.003865975, y: -0.1860416, z: -0.01548656}
+          q: {x: -0.004343559, y: -0.007280956, z: 0.08156235, w: 0.9966322}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.03102724, y: -0.2118752, z: -0.0160324}
+          q: {x: 0.02400613, y: -0.1886515, z: -0.03850794, w: 0.9809951}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.1001896, y: -0.03634243, z: -4.033004E-05}
+          q: {x: 7.898894E-17, y: 8.326673E-17, z: -2.35076E-17, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.04752023, y: -0.003041767, z: -2.058981E-05}
+          q: {x: 7.898894E-17, y: 8.326673E-17, z: -2.35076E-17, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0, y: 0.02908944, z: 0.0004879225}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 6.669882E-18, y: 0.1053243, z: -2.551213E-21}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 6.393887E-18, y: 0.1024618, z: 2.287697E-31}
+          q: {x: 0, y: 0, z: -1.110223E-16, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -6.071677E-17, y: 0.2032737, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -1.190649E-17, y: 0.04874294, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.07141704, y: 0.413969, z: 3.155444E-32}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -1.557116E-17, y: 0.04874294, z: -0.01}
+          q: {x: -0.5, y: 0, z: 0, w: 0.8660254}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.07141704, y: 0.413969, z: 3.155444E-32}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -1.070501E-17, y: 0.04874294, z: 0.01}
+          q: {x: 0.5, y: 0, z: 0, w: 0.8660254}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.07141704, y: 0.413969, z: 3.155444E-32}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -4.947987E-17, y: 0.1571384, z: -0.07277387}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.02121565, y: -0.0612908, z: -0.08168898}
+          q: {x: 0.004765451, y: 0.5062614, z: 0.7375806, w: -0.4468239}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.01541496, y: -0.09677389, z: -0.1138226}
+          q: {x: 0.03340676, y: 0.03575988, z: -0.03710032, w: 0.9981126}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -2.777486E-08, y: -0.1497523, z: -0.1538869}
+          q: {x: -0.05532873, y: 0.5141445, z: 0.7360237, w: 0.4368791}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.002565957, y: -0.01506154, z: -0.02675026}
+          q: {x: 0.02723955, y: 0.2954611, z: 0.08766976, w: 0.9509336}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.04261848, y: 0, z: 0}
+          q: {x: -3.95517E-16, y: 8.326673E-17, z: -9.714451E-17, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.01039669, y: -0.01620004, z: -0.01646623}
+          q: {x: -1.526557E-16, y: 8.326673E-17, z: -8.326673E-17, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.002571216, y: -0.02442523, z: -0.01762188}
+          q: {x: -1.526557E-16, y: 8.326673E-17, z: -8.326673E-17, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.004891342, y: -0.02346452, z: -0.03751076}
+          q: {x: -3.95517E-16, y: 8.326673E-17, z: -9.714451E-17, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.004513482, y: -0.0217016, z: -0.01497446}
+          q: {x: -1.526557E-16, y: 8.326673E-17, z: -8.326673E-17, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.005909892, y: -0.01610954, z: -0.003347624}
+          q: {x: -1.526557E-16, y: 8.326673E-17, z: -8.326673E-17, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.007719881, y: -0.01297275, z: 0.0005067165}
+          q: {x: -1.526557E-16, y: 8.326673E-17, z: -8.326673E-17, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.01469673, y: -0.02837721, z: -0.02775366}
+          q: {x: -3.95517E-16, y: 8.326673E-17, z: -9.714451E-17, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.00186925, y: -0.02424607, z: -0.01340329}
+          q: {x: -1.526557E-16, y: 8.326673E-17, z: -8.326673E-17, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.007172324, y: -0.02079858, z: -0.003584736}
+          q: {x: -1.526557E-16, y: 8.326673E-17, z: -8.326673E-17, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.009415059, y: -0.01654726, z: 0.0006143787}
+          q: {x: -1.526557E-16, y: 8.326673E-17, z: -8.326673E-17, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.02704185, y: -0.0354594, z: -0.01159905}
+          q: {x: -3.95517E-16, y: 8.326673E-17, z: -9.714451E-17, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.001981509, y: -0.02239124, z: -0.007333795}
+          q: {x: -1.526557E-16, y: 8.326673E-17, z: -8.326673E-17, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.002094841, y: -0.0170846, z: -0.003830553}
+          q: {x: -1.526557E-16, y: 8.326673E-17, z: -8.326673E-17, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.009574282, y: -0.01823412, z: 0.0001047053}
+          q: {x: -1.526557E-16, y: 8.326673E-17, z: -8.326673E-17, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.02828069, y: -0.03841923, z: 0.009986835}
+          q: {x: -3.95517E-16, y: 8.326673E-17, z: -9.714451E-17, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.0004227532, y: -0.02570856, z: -0.003231214}
+          q: {x: -1.526557E-16, y: 8.326673E-17, z: -8.326673E-17, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.005952268, y: -0.01942353, z: 0.0002834802}
+          q: {x: -1.526557E-16, y: 8.326673E-17, z: -8.326673E-17, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -1.716118E-17, y: 0.1571355, z: 0.07277389}
+          q: {x: 2.832769E-16, y: 6.123234E-17, z: 1, w: -6.123234E-17}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.02121569, y: 0.06128788, z: 0.08168872}
+          q: {x: 0.1127621, y: -0.4667147, z: -0.6062142, w: 0.6340083}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.01541486, y: 0.09677398, z: 0.1138228}
+          q: {x: -0.1166234, y: -0.04786969, z: 0.04648751, w: 0.9909321}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.01907483, y: 0.1488588, z: 0.1644256}
+          q: {x: 0.01291626, y: 0.4273756, z: 0.6310713, w: 0.6472498}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.002566006, y: 0.01506217, z: 0.02675093}
+          q: {x: 0.02723955, y: 0.2954611, z: 0.08766976, w: 0.9509336}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.04261853, y: -1.183239E-07, z: -1.321984E-07}
+          q: {x: -3.122502E-16, y: 5.551115E-16, z: 1.457168E-16, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.01039681, y: 0.01620051, z: 0.01646619}
+          q: {x: -3.122502E-16, y: 5.551115E-16, z: 1.457168E-16, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.002571083, y: 0.02442442, z: 0.01762151}
+          q: {x: -3.122502E-16, y: 5.551115E-16, z: 1.457168E-16, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.004891673, y: 0.02346478, z: 0.03751025}
+          q: {x: -3.122502E-16, y: 5.551115E-16, z: 1.457168E-16, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.004513443, y: 0.02170105, z: 0.01497445}
+          q: {x: -3.122502E-16, y: 5.551115E-16, z: 1.457168E-16, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.005909716, y: 0.01610974, z: 0.003347842}
+          q: {x: -3.122502E-16, y: 5.551115E-16, z: 1.457168E-16, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.007719698, y: 0.0129725, z: -0.0005064989}
+          q: {x: -3.122502E-16, y: 5.551115E-16, z: 1.457168E-16, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.01469647, y: 0.02837735, z: 0.02775326}
+          q: {x: -3.122502E-16, y: 5.551115E-16, z: 1.457168E-16, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.001869465, y: 0.02424574, z: 0.01340354}
+          q: {x: -3.122502E-16, y: 5.551115E-16, z: 1.457168E-16, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.007172632, y: 0.02079905, z: 0.003584393}
+          q: {x: -3.122502E-16, y: 5.551115E-16, z: 1.457168E-16, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.009415044, y: 0.01654676, z: -0.0006144398}
+          q: {x: -3.122502E-16, y: 5.551115E-16, z: 1.457168E-16, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.02704157, y: 0.03545947, z: 0.0115986}
+          q: {x: -3.122502E-16, y: 5.551115E-16, z: 1.457168E-16, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.001981429, y: 0.02239114, z: 0.007333731}
+          q: {x: -3.122502E-16, y: 5.551115E-16, z: 1.457168E-16, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.002094536, y: 0.01708457, z: 0.003830973}
+          q: {x: -3.122502E-16, y: 5.551115E-16, z: 1.457168E-16, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.009574494, y: 0.01823402, z: -0.0001051105}
+          q: {x: -3.122502E-16, y: 5.551115E-16, z: 1.457168E-16, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.02828042, y: 0.038419, z: -0.009987348}
+          q: {x: -3.122502E-16, y: 5.551115E-16, z: 1.457168E-16, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.0004224489, y: 0.02570873, z: 0.003231685}
+          q: {x: -3.122502E-16, y: 5.551115E-16, z: 1.457168E-16, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.00595268, y: 0.01942359, z: -0.0002840481}
+          q: {x: -3.122502E-16, y: 5.551115E-16, z: 1.457168E-16, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.01534231, y: -0.03004588, z: 0.07795124}
+          q: {x: 0.8161289, y: -0.01396023, z: 0.5770226, w: 0.02799333}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.01236303, y: 0.1868712, z: -0.004569178}
+          q: {x: 0.09113907, y: 0.002231319, z: -0.0332206, w: 0.9952814}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.00410885, y: 0.2102132, z: 0.02231014}
+          q: {x: -0.06947543, y: 0.7076979, z: -0.01607351, w: 0.7029071}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.1001896, y: 0.03634246, z: 4.014941E-05}
+          q: {x: 0.0001046738, y: 0.0002249655, z: -0.03195572, w: 0.9994893}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.04726148, y: 0.005969791, z: 0.0005028788}
+          q: {x: 8.224352E-14, y: 1.165242E-11, z: -5.088026E-11, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+    m_SkeletonNameIDArray: 000000006382cc2bc3d2236f11a4c8537627d11fa6bbd82bb8c0aa536ea7f2e5a1ea56e0472eb804d11ebf73f552f4f93a72167e4cbb90f8a259c10763e857652aec03bb1e01826555858f0fe8940f5f3a72da0919974c8261753416d1f971a46ba8783dfd987f4ad80b1228625a1bb1f46a1cc657ff7858b692c7b20cc3ce2b9af3c95c3966adc235b8f50c8fe9fc9519d9fbe2ba4c9f7c4885536af2d45af364e45d844292b6e5382836dcbe5c8ae574b3f35de55b64fa105bad97aa0aa40e3c3aa37915ea37b8afbb3e21398b39569a1e5dc85a098257e0588bce76688cb9d5fde8273ae4099680b5000f16850778b51063e6856476fa3f357f63a90578147c80778cda891ac0cb9f67f414afebf8ea89a209eae8d5d79cf6f3a7136bba8a7056b570
+    m_Human:
+      data:
+        serializedVersion: 2
+        m_RootX:
+          t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        m_Skeleton:
+          data:
+            m_Node: []
+            m_ID:
+            m_AxesArray: []
+        m_SkeletonPose:
+          data:
+            m_X: []
+        m_LeftHand:
+          data:
+            m_HandBoneIndex: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+        m_RightHand:
+          data:
+            m_HandBoneIndex: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+        m_Handles: []
+        m_ColliderArray: []
+        m_HumanBoneIndex: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+        m_HumanBoneMass:
+        - 0.1454546
+        - 0.1212121
+        - 0.1212121
+        - 0.04848485
+        - 0.04848485
+        - 0.009696971
+        - 0.009696971
+        - 0.03030303
+        - 0.2909091
+        - 0
+        - 0.01212121
+        - 0.04848485
+        - 0.006060607
+        - 0.006060607
+        - 0.02424243
+        - 0.02424243
+        - 0.01818182
+        - 0.01818182
+        - 0.006060607
+        - 0.006060607
+        - 0.002424243
+        - 0.002424243
+        - 0
+        - 0
+        - 0
+        m_ColliderIndex: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+        m_Scale: 1
+        m_ArmTwist: 0.5
+        m_ForeArmTwist: 0.5
+        m_UpperLegTwist: 0.5
+        m_LegTwist: 0.5
+        m_ArmStretch: 0.05
+        m_LegStretch: 0.05
+        m_FeetSpacing: 0
+        m_HasLeftHand: 0
+        m_HasRightHand: 0
+        m_HasTDoF: 0
+    m_HumanSkeletonIndexArray:
+    m_HumanSkeletonReverseIndexArray:
+    m_RootMotionBoneIndex: -1
+    m_RootMotionBoneX:
+      t: {x: 0, y: 0, z: 0}
+      q: {x: 0, y: 0, z: 0, w: 1}
+      s: {x: 1, y: 1, z: 1}
+    m_RootMotionSkeleton:
+      data:
+        m_Node: []
+        m_ID:
+        m_AxesArray: []
+    m_RootMotionSkeletonPose:
+      data:
+        m_X: []
+    m_RootMotionSkeletonIndexArray:
+  m_TOS:
+    0:
+    5669768: transform1/_rig_ready:Rig_reusable_AA:target_1_character_rig:root/_rig_ready:Rig_reusable_AA:target_1_character_rig:Ribs/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine2/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine3/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Shoulder_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Upper_Arm_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Forearm_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Wrist_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_HandEnd_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Middle_Finger_Joint_01a/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Middle_Finger_Joint_01b/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Middle_Finger_Joint_01c
+    30597734: transform1/_rig_ready:Rig_reusable_AA:target_1_character_rig:root/_rig_ready:Rig_reusable_AA:target_1_character_rig:Ribs/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine2/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine3/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Shoulder_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Upper_Arm_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Forearm_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Wrist_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_HandEnd_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Middle_Finger_Joint_01a/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Middle_Finger_Joint_01b/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Middle_Finger_Joint_01c/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Middle_Finger_Joint_01d
+    126268939: transform1/_rig_ready:Rig_reusable_AA:target_1_character_rig:root/_rig_ready:Rig_reusable_AA:target_1_character_rig:Ribs/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine2/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine3/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Shoulder_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Upper_Arm_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Forearm_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Wrist_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_HandEnd_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Middle_Finger_Joint_01a
+    155439640: transform1/_rig_ready:Rig_reusable_AA:target_1_character_rig:root/_rig_ready:Rig_reusable_AA:target_1_character_rig:Ribs/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine2/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine3/_rig_ready:Rig_reusable_AA:target_1_character_rig:Neck/_rig_ready:Rig_reusable_AA:target_1_character_rig:Head/_rig_ready:Rig_reusable_AA:target_1_character_rig:HeadEnd
+    194388826: transform1/_rig_ready:Rig_reusable_AA:target_1_character_rig:root/_rig_ready:Rig_reusable_AA:target_1_character_rig:Ribs/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine2/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine3/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Shoulder_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Upper_Arm_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Forearm_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Wrist_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_HandEnd_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Thumb_Joint_01a/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Thumb_Joint_01b
+    199960252: transform1/_rig_ready:Rig_reusable_AA:target_1_character_rig:root/_rig_ready:Rig_reusable_AA:target_1_character_rig:Ribs/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine2/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine3/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Shoulder_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Upper_Arm_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Forearm_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Wrist_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_HandEnd_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Index_Finger_Joint_01a/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Index_Finger_Joint_01b/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Index_Finger_Joint_01c
+    394372516: transform1/_rig_ready:Rig_reusable_AA:target_1_character_rig:root/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Thigh_Joint_01
+    437412887: transform1/_rig_ready:Rig_reusable_AA:target_1_character_rig:root/_rig_ready:Rig_reusable_AA:target_1_character_rig:Ribs/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine2/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine3/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Shoulder_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Upper_Arm_Joint_01
+    570265474: transform1/_rig_ready:Rig_reusable_AA:target_1_character_rig:root/_rig_ready:Rig_reusable_AA:target_1_character_rig:Ribs/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine2/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine3/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Shoulder_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Upper_Arm_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Forearm_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Wrist_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_HandEnd_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Index_Finger_Joint_01a/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Index_Finger_Joint_01b
+    603443862: transform1/_rig_ready:Rig_reusable_AA:target_1_character_rig:root/_rig_ready:Rig_reusable_AA:target_1_character_rig:Ribs/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine2/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine3/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Shoulder_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Upper_Arm_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Forearm_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Wrist_Joint_01
+    734823011: transform1
+    823874008: transform1/_rig_ready:Rig_reusable_AA:target_1_character_rig:root/_rig_ready:Rig_reusable_AA:target_1_character_rig:Ribs/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine2/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine3/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Shoulder_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Upper_Arm_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Forearm_Joint_01
+    862714653: transform1/_rig_ready:Rig_reusable_AA:target_1_character_rig:root/_rig_ready:Rig_reusable_AA:target_1_character_rig:Ribs/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine2/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine3/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Shoulder_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Upper_Arm_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Forearm_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Wrist_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_HandEnd_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Ring_Finger_Joint_01a/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Ring_Finger_Joint_01b/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Ring_Finger_Joint_01c
+    926453374: transform1/_rig_ready:Rig_reusable_AA:target_1_character_rig:root/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Thigh_Joint_01
+    933756722: transform1/_rig_ready:Rig_reusable_AA:target_1_character_rig:root/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Thigh_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Knee_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Ankle_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Toe_Joint_01
+    1172289857: transform1/_rig_ready:Rig_reusable_AA:target_1_character_rig:root/_rig_ready:Rig_reusable_AA:target_1_character_rig:Ribs/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine2/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine3/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Shoulder_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Upper_Arm_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Forearm_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Wrist_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_HandEnd_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Index_Finger_Joint_01a/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Index_Finger_Joint_01b/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Index_Finger_Joint_01c
+    1350201272: transform1/_rig_ready:Rig_reusable_AA:target_1_character_rig:root/_rig_ready:Rig_reusable_AA:target_1_character_rig:Ribs/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine2/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine3/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Shoulder_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Upper_Arm_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Forearm_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Wrist_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_HandEnd_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Middle_Finger_Joint_01a/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Middle_Finger_Joint_01b/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Middle_Finger_Joint_01c/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Middle_Finger_Joint_01d
+    1355762936: transform1/_rig_ready:Rig_reusable_AA:target_1_character_rig:root/_rig_ready:Rig_reusable_AA:target_1_character_rig:Ribs/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine2/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine3/_rig_ready:Rig_reusable_AA:target_1_character_rig:Neck/Head1/HeadEnd 1
+    1365609637: head/head_R
+    1438778493: transform1/_rig_ready:Rig_reusable_AA:target_1_character_rig:root/_rig_ready:Rig_reusable_AA:target_1_character_rig:Ribs/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine2/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine3/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Shoulder_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Upper_Arm_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Forearm_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Wrist_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_HandEnd_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Middle_Finger_Joint_01a/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Middle_Finger_Joint_01b/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Middle_Finger_Joint_01c
+    1488656902: transform1/_rig_ready:Rig_reusable_AA:target_1_character_rig:root/_rig_ready:Rig_reusable_AA:target_1_character_rig:Ribs/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine2/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine3/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Shoulder_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Upper_Arm_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Forearm_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Wrist_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_HandEnd_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Thumb_Joint_01a/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Thumb_Joint_01b/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Thumb_Joint_01c
+    1618166179: transform1/_rig_ready:Rig_reusable_AA:target_1_character_rig:root/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Thigh_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Knee_Joint_01
+    2095896302: transform1/_rig_ready:Rig_reusable_AA:target_1_character_rig:root/_rig_ready:Rig_reusable_AA:target_1_character_rig:Ribs/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine2/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine3/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Shoulder_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Upper_Arm_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Forearm_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Wrist_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_HandEnd_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Index_Finger_Joint_01a/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Index_Finger_Joint_01b
+    2199229051: transform1/_rig_ready:Rig_reusable_AA:target_1_character_rig:root/_rig_ready:Rig_reusable_AA:target_1_character_rig:Ribs/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine2/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine3/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Shoulder_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Upper_Arm_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Forearm_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Wrist_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_HandEnd_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Ring_Finger_Joint_01a
+    2214832523: transform1/_rig_ready:Rig_reusable_AA:target_1_character_rig:root/_rig_ready:Rig_reusable_AA:target_1_character_rig:Ribs/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine2/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine3/_rig_ready:Rig_reusable_AA:target_1_character_rig:Neck/Head
+    2313560293: transform1/_rig_ready:Rig_reusable_AA:target_1_character_rig:root/_rig_ready:Rig_reusable_AA:target_1_character_rig:Ribs/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine2/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine3/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Shoulder_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Upper_Arm_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Forearm_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Wrist_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_HandEnd_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Ring_Finger_Joint_01a
+    2395437766: transform1/_rig_ready:Rig_reusable_AA:target_1_character_rig:root/_rig_ready:Rig_reusable_AA:target_1_character_rig:Ribs/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine2/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine3/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Shoulder_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Upper_Arm_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Forearm_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Wrist_Joint_01
+    2399084306: transform1/_rig_ready:Rig_reusable_AA:target_1_character_rig:root/_rig_ready:Rig_reusable_AA:target_1_character_rig:Ribs/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine2/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine3
+    2515465269: transform1/_rig_ready:Rig_reusable_AA:target_1_character_rig:root/_rig_ready:Rig_reusable_AA:target_1_character_rig:Ribs/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine2/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine3/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Shoulder_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Upper_Arm_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Forearm_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Wrist_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_HandEnd_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Pinky_Finger_Joint_01a/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Pinky_Finger_Joint_01b
+    2547405773: transform1/_rig_ready:Rig_reusable_AA:target_1_character_rig:root/_rig_ready:Rig_reusable_AA:target_1_character_rig:Ribs/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine2/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine3/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Shoulder_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Upper_Arm_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Forearm_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Wrist_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_HandEnd_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Ring_Finger_Joint_01a/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Ring_Finger_Joint_01b/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Ring_Finger_Joint_01c
+    2565322181: transform1/_rig_ready:Rig_reusable_AA:target_1_character_rig:root/_rig_ready:Rig_reusable_AA:target_1_character_rig:Ribs/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine2/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine3/_rig_ready:Rig_reusable_AA:target_1_character_rig:Neck/_rig_ready:Rig_reusable_AA:target_1_character_rig:Head
+    2749363011: transform1/_rig_ready:Rig_reusable_AA:target_1_character_rig:root/_rig_ready:Rig_reusable_AA:target_1_character_rig:Ribs/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine2/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine3/_rig_ready:Rig_reusable_AA:target_1_character_rig:Neck/Head/HeadEnd
+    2766842397: transform1/_rig_ready:Rig_reusable_AA:target_1_character_rig:root/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Thigh_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Knee_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Ankle_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Toe_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_footEnd_Joint_01
+    2774019155: transform1/_rig_ready:Rig_reusable_AA:target_1_character_rig:root/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Thigh_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Knee_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Ankle_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Toe_Joint_01
+    2816679117: transform1/_rig_ready:Rig_reusable_AA:target_1_character_rig:root/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Thigh_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Knee_Joint_01
+    2816896199: transform1/_rig_ready:Rig_reusable_AA:target_1_character_rig:root/_rig_ready:Rig_reusable_AA:target_1_character_rig:Ribs/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine2/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine3/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Shoulder_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Upper_Arm_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Forearm_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Wrist_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_HandEnd_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Thumb_Joint_01a/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Thumb_Joint_01b
+    2817783452: head
+    2834398944: transform1/_rig_ready:Rig_reusable_AA:target_1_character_rig:root/_rig_ready:Rig_reusable_AA:target_1_character_rig:Ribs/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine2/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine3/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Shoulder_Joint_01
+    2869950951: transform1/_rig_ready:Rig_reusable_AA:target_1_character_rig:root/_rig_ready:Rig_reusable_AA:target_1_character_rig:Ribs/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine2/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine3/_rig_ready:Rig_reusable_AA:target_1_character_rig:Neck
+    2875896262: head/head_L
+    2877161264: transform1/_rig_ready:Rig_reusable_AA:target_1_character_rig:root/_rig_ready:Rig_reusable_AA:target_1_character_rig:Ribs
+    2923743892: transform1/_rig_ready:Rig_reusable_AA:target_1_character_rig:root/_rig_ready:Rig_reusable_AA:target_1_character_rig:Ribs/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine2/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine3/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Shoulder_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Upper_Arm_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Forearm_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Wrist_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_HandEnd_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Index_Finger_Joint_01a
+    3036205969: transform1/_rig_ready:Rig_reusable_AA:target_1_character_rig:root/_rig_ready:Rig_reusable_AA:target_1_character_rig:Ribs/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine2/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine3/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Shoulder_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Upper_Arm_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Forearm_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Wrist_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_HandEnd_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Thumb_Joint_01a/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Thumb_Joint_01b/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Thumb_Joint_01c
+    3096012729: transform1/_rig_ready:Rig_reusable_AA:target_1_character_rig:root/_rig_ready:Rig_reusable_AA:target_1_character_rig:Ribs/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine2/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine3/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Shoulder_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Upper_Arm_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Forearm_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Wrist_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_HandEnd_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Middle_Finger_Joint_01a/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Middle_Finger_Joint_01b
+    3120138085: transform1/_rig_ready:Rig_reusable_AA:target_1_character_rig:root/_rig_ready:Rig_reusable_AA:target_1_character_rig:Ribs/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine2/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine3/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Shoulder_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Upper_Arm_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Forearm_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Wrist_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_HandEnd_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Index_Finger_Joint_01a
+    3169808262: transform1/_rig_ready:Rig_reusable_AA:target_1_character_rig:root/_rig_ready:Rig_reusable_AA:target_1_character_rig:Ribs/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine2/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine3/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Shoulder_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Upper_Arm_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Forearm_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Wrist_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_HandEnd_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Ring_Finger_Joint_01a/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Ring_Finger_Joint_01b/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Ring_Finger_Joint_01c/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Ring_Finger_Joint_01d
+    3277275318: transform1/_rig_ready:Rig_reusable_AA:target_1_character_rig:root/_rig_ready:Rig_reusable_AA:target_1_character_rig:Ribs/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine2/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine3/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Shoulder_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Upper_Arm_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Forearm_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Wrist_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_HandEnd_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Middle_Finger_Joint_01a/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Middle_Finger_Joint_01b
+    3289554606: transform1/_rig_ready:Rig_reusable_AA:target_1_character_rig:root/_rig_ready:Rig_reusable_AA:target_1_character_rig:Ribs/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine2/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine3/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Shoulder_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Upper_Arm_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Forearm_Joint_01
+    3308739262: transform1/_rig_ready:Rig_reusable_AA:target_1_character_rig:root/_rig_ready:Rig_reusable_AA:target_1_character_rig:Ribs/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine2
+    3442198988: transform1/_rig_ready:Rig_reusable_AA:target_1_character_rig:root/_rig_ready:Rig_reusable_AA:target_1_character_rig:Ribs/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine2/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine3/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Shoulder_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Upper_Arm_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Forearm_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Wrist_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_HandEnd_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Middle_Finger_Joint_01a
+    3451362027: transform1/_rig_ready:Rig_reusable_AA:target_1_character_rig:root/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Thigh_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Knee_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Ankle_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Toe_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_footEnd_Joint_01
+    3549170451: transform1/_rig_ready:Rig_reusable_AA:target_1_character_rig:root/_rig_ready:Rig_reusable_AA:target_1_character_rig:Ribs/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine2/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine3/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Shoulder_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Upper_Arm_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Forearm_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Wrist_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_HandEnd_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Ring_Finger_Joint_01a/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Ring_Finger_Joint_01b
+    3581813931: transform1/_rig_ready:Rig_reusable_AA:target_1_character_rig:root/_rig_ready:Rig_reusable_AA:target_1_character_rig:Ribs/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine2/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine3/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Shoulder_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Upper_Arm_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Forearm_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Wrist_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_HandEnd_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Pinky_Finger_Joint_01a/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Pinky_Finger_Joint_01b
+    3587619247: transform1/_rig_ready:Rig_reusable_AA:target_1_character_rig:root/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Thigh_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Knee_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Ankle_Joint_01
+    3621120234: ocho_low
+    3646684962: transform1/_rig_ready:Rig_reusable_AA:target_1_character_rig:root/_rig_ready:Rig_reusable_AA:target_1_character_rig:Ribs/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine2/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine3/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Shoulder_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Upper_Arm_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Forearm_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Wrist_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_HandEnd_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Thumb_Joint_01a
+    3671660754: transform1/_rig_ready:Rig_reusable_AA:target_1_character_rig:root/_rig_ready:Rig_reusable_AA:target_1_character_rig:Ribs/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine2/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine3/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Shoulder_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Upper_Arm_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Forearm_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Wrist_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_HandEnd_Joint_01
+    3720755899: transform1/_rig_ready:Rig_reusable_AA:target_1_character_rig:root/_rig_ready:Rig_reusable_AA:target_1_character_rig:Ribs/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine2/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine3/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Shoulder_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Upper_Arm_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Forearm_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Wrist_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_HandEnd_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Pinky_Finger_Joint_01a/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Pinky_Finger_Joint_01b/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Pinky_Finger_Joint_01c
+    3959768068: transform1/_rig_ready:Rig_reusable_AA:target_1_character_rig:root/_rig_ready:Rig_reusable_AA:target_1_character_rig:Ribs/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine2/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine3/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Shoulder_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Upper_Arm_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Forearm_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Wrist_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_HandEnd_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Pinky_Finger_Joint_01a
+    3983919332: transform1/_rig_ready:Rig_reusable_AA:target_1_character_rig:root/_rig_ready:Rig_reusable_AA:target_1_character_rig:Ribs/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine2/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine3/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Shoulder_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Upper_Arm_Joint_01
+    4007044101: transform1/_rig_ready:Rig_reusable_AA:target_1_character_rig:root/_rig_ready:Rig_reusable_AA:target_1_character_rig:Ribs/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine2/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine3/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Shoulder_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Upper_Arm_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Forearm_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Wrist_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_HandEnd_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Ring_Finger_Joint_01a/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Ring_Finger_Joint_01b
+    4063015891: transform1/_rig_ready:Rig_reusable_AA:target_1_character_rig:root/_rig_ready:Rig_reusable_AA:target_1_character_rig:Ribs/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine2/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine3/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Shoulder_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Upper_Arm_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Forearm_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Wrist_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_HandEnd_Joint_01
+    4070252765: transform1/_rig_ready:Rig_reusable_AA:target_1_character_rig:root/_rig_ready:Rig_reusable_AA:target_1_character_rig:Ribs/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine2/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine3/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Shoulder_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Upper_Arm_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Forearm_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Wrist_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_HandEnd_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Ring_Finger_Joint_01a/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Ring_Finger_Joint_01b/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Ring_Finger_Joint_01c/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Ring_Finger_Joint_01d
+    4076896462: transform1/_rig_ready:Rig_reusable_AA:target_1_character_rig:root/_rig_ready:Rig_reusable_AA:target_1_character_rig:Ribs/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine2/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine3/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Shoulder_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Upper_Arm_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Forearm_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Wrist_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_HandEnd_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Index_Finger_Joint_01a/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Index_Finger_Joint_01b/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Index_Finger_Joint_01c/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Index_Finger_Joint_01d
+    4113106316: transform1/_rig_ready:Rig_reusable_AA:target_1_character_rig:root/_rig_ready:Rig_reusable_AA:target_1_character_rig:Ribs/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine2/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine3/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Shoulder_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Upper_Arm_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Forearm_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Wrist_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_HandEnd_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Pinky_Finger_Joint_01a/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Pinky_Finger_Joint_01b/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Pinky_Finger_Joint_01c
+    4114594902: transform1/_rig_ready:Rig_reusable_AA:target_1_character_rig:root/_rig_ready:Rig_reusable_AA:target_1_character_rig:Ribs/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine2/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine3/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Shoulder_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Upper_Arm_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Forearm_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Wrist_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_HandEnd_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Thumb_Joint_01a
+    4151825266: transform1/_rig_ready:Rig_reusable_AA:target_1_character_rig:root
+    4166011807: transform1/_rig_ready:Rig_reusable_AA:target_1_character_rig:root/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Thigh_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Knee_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Ankle_Joint_01
+    4180850358: transform1/_rig_ready:Rig_reusable_AA:target_1_character_rig:root/_rig_ready:Rig_reusable_AA:target_1_character_rig:Ribs/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine2/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine3/_rig_ready:Rig_reusable_AA:target_1_character_rig:Neck/Head1
+    4194467637: transform1/_rig_ready:Rig_reusable_AA:target_1_character_rig:root/_rig_ready:Rig_reusable_AA:target_1_character_rig:Ribs/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine2/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine3/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Shoulder_Joint_01
+    4223142389: transform1/_rig_ready:Rig_reusable_AA:target_1_character_rig:root/_rig_ready:Rig_reusable_AA:target_1_character_rig:Ribs/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine2/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine3/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Shoulder_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Upper_Arm_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Forearm_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Wrist_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_HandEnd_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Left_Pinky_Finger_Joint_01a
+    4237274650: transform1/_rig_ready:Rig_reusable_AA:target_1_character_rig:root/_rig_ready:Rig_reusable_AA:target_1_character_rig:Ribs/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine2/_rig_ready:Rig_reusable_AA:target_1_character_rig:spine3/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Shoulder_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Upper_Arm_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Forearm_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Wrist_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_HandEnd_Joint_01/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Index_Finger_Joint_01a/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Index_Finger_Joint_01b/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Index_Finger_Joint_01c/_rig_ready:Rig_reusable_AA:target_1_character_rig:Right_Index_Finger_Joint_01d
